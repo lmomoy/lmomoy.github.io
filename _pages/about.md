@@ -88,7 +88,7 @@ Yang Zhang, **Moyun Liu**, Jingwu He, Fei Pan, Yanwen Guo
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - Now*,Ph.D. Student, School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
+- *2021.09 - Now*, Ph.D. Student, School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
 - *2019.06 - 2021.06*, M.Eng., School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
 - *2015.09 - 2019.06*, B.Eng., School of Mechanical Engineering, Hubei University of Technology.
 
