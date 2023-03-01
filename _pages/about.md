@@ -56,20 +56,7 @@ My current research interests are machine learning and computer vision including
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/CII.jpg' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[A lightweight and accurate recognition framework for signs of X-ray weld images](https://arxiv.org/pdf/2110.09278.pdf)
-
-**Moyun Liu**, Jingming Xie, Jing Hao, Yang Zhang, Xuzhan Chen, Youping Chen
-
-**Computers in Industry, 2022**
-
-- X-ray images are commonly used to ensure the security of devices in quality inspection industry. The recognition of signs printed on X-ray weld images plays an essential role in digital traceability system of manufacturing industry.  In this paper, we propose a signs recognition framework based on convolutional neural networks (CNNs) for weld images. The proposed framework firstly contains a shallow classification network for correcting the pose of images, and a narrow network for final weld information recognition.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/CII.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='TII2021-paper.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [A Unified Light Framework for Real-time Fault Detection of Freight Train Images](https://arxiv.org/pdf/2102.00381.pdf)
