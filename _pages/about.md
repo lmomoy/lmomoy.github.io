@@ -41,7 +41,7 @@ My current research interests are machine learning and computer vision including
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/CII.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [A lightweight and accurate recognition framework for signs of X-ray weld images](https://arxiv.org/pdf/2110.09278.pdf)
