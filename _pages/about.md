@@ -100,4 +100,4 @@ Yang Zhang, **Moyun Liu**, Jingwu He, Fei Pan, Yanwen Guo
 - *2022.07 - 2022.08*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/cn/giv/intelligent-automotive-solution-2030), Shanghai, China.
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Cq_8x3CZOTdcMSCvLOIqg0UcfT_mdbbR2_utvsrH6_8"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Cq_8x3CZOTdcMSCvLOIqg0UcfT_mdbbR2_utvsrH6_8&cl=ffffff&w=a"></script>
