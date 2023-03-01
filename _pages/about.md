@@ -41,6 +41,7 @@ My current research interests are machine learning and computer vision including
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/CII.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,7 +55,32 @@ My current research interests are machine learning and computer vision including
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/CII.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[A lightweight and accurate recognition framework for signs of X-ray weld images](https://arxiv.org/pdf/2110.09278.pdf)
+
+**Moyun Liu**, Jingming Xie, Jing Hao, Yang Zhang, Xuzhan Chen, Youping Chen
+
+**Computers in Industry, 2022**
+
+- X-ray images are commonly used to ensure the security of devices in quality inspection industry. The recognition of signs printed on X-ray weld images plays an essential role in digital traceability system of manufacturing industry.  In this paper, we propose a signs recognition framework based on convolutional neural networks (CNNs) for weld images. The proposed framework firstly contains a shallow classification network for correcting the pose of images, and a narrow network for final weld information recognition.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/CII.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[A Unified Light Framework for Real-time Fault Detection of Freight Train Images](https://arxiv.org/pdf/2102.00381.pdf)
+
+Yang Zhang, **Moyun Liu\***, Yang Yang, Yanwen Guo, Huiming Zhang
+
+**IEEE Transactions on Industrial Informatics, 2021**
+
+- A unified light framework is designed to improve detection accuracy while supporting a real-time operation with a low resource requirement. We firstly design a novel lightweight backbone (RFDNet) to improve the accuracy and reduce computational cost. Then, we propose a multi region proposal network using multi-scale feature maps generated from RFDNet to improve the detection performance. Finally, we present multi level position-sensitive score maps and region of interest pooling to further improve accuracy with few redundant computations.
+</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
