@@ -97,4 +97,4 @@ Yang Zhang, **Moyun Liu**, Jingwu He, Fei Pan, Yanwen Guo
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.07 - 2022.09*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/cn/giv/intelligent-automotive-solution-2030), Shanghai, China.
+- *2022.07 - 2022.08*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/cn/giv/intelligent-automotive-solution-2030), Shanghai, China.
