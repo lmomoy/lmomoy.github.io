@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Moyun Liu"
   avatar           : "images/Moyun_Liu.jpg"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Huazhong University of Science and Technology"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
