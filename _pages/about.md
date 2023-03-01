@@ -65,7 +65,7 @@ Yang Zhang, **Moyun Liu\***, Yang Yang, Yanwen Guo, Huiming Zhang
 
 **IEEE Transactions on Industrial Informatics, 2021**
 
-- We firstly design a novel lightweight backbone (RFDNet) to improve the accuracy and reduce computational cost. Then, we propose a multi region proposal network using multi-scale feature maps generated from RFDNet to improve the detection performance. Finally, we present multi level position-sensitive score maps and region of interest pooling to further improve accuracy with few redundant computations.
+- We propose a unified light framework to improve detection accuracy while supporting a real-time operation with a low resource requirement.
 </div>
 </div>
 
