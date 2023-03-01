@@ -28,7 +28,7 @@ My current research interests are machine learning and computer vision including
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'></div><img src='images/LF-YOLO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image](https://arxiv.org/pdf/2110.15045.pdf)
