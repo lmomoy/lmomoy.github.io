@@ -56,7 +56,7 @@ My current research interests are machine learning and computer vision including
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='TII2021-paper.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/TII2021-paper.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [A Unified Light Framework for Real-time Fault Detection of Freight Train Images](https://arxiv.org/pdf/2102.00381.pdf)
