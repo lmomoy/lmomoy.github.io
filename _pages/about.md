@@ -37,8 +37,20 @@ My current research interests are machine learning and computer vision including
 
 **IEEE Sensors Journal, 2023** \| [![](https://img.shields.io/github/stars/lmomoy/LF-YOLO?style=social&label=Code Stars)](https://github.com/lmomoy/LF-YOLO)
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - X-ray image plays an important role in manufacturing industry for quality assurance, because it can reflect the internal condition of weld region. However, the shape and scale of different defect types vary greatly, which makes it challenging for model to detect weld defects. In this paper, we propose a weld defect detection method based on convolution neural network, namely Lighter and Faster YOLO (LF-YOLO). 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[A lightweight and accurate recognition framework for signs of X-ray weld images](https://arxiv.org/pdf/2110.09278.pdf)
+
+**Moyun Liu**, Jingming Xie, Jing Hao, Yang Zhang, Xuzhan Chen, Youping Chen
+
+**Computers in Industry, 2022**
+
+- X-ray images are commonly used to ensure the security of devices in quality inspection industry. The recognition of signs printed on X-ray weld images plays an essential role in digital traceability system of manufacturing industry.  In this paper, we propose a signs recognition framework based on convolutional neural networks (CNNs) for weld images. The proposed framework firstly contains a shallow classification network for correcting the pose of images, and a narrow network for final weld information recognition.
 </div>
 </div>
 
@@ -57,4 +69,4 @@ My current research interests are machine learning and computer vision including
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.07 - 2022.09*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/cn/giv/intelligent-automotive-solution-2030), Shanghai, China.
