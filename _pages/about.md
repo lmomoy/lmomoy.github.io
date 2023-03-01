@@ -33,7 +33,7 @@ My current research interest is computer vision including object detection, imag
 
 [LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image](https://arxiv.org/pdf/2110.15045.pdf)
 
-**Moyun Liu**, Youping Chen, Lei He, Yang Zhang, Jingming Xie
+**Moyun Liu**, Youping Chen, Jingming Xie, Lei He, Yang Zhang
 
 **IEEE Sensors Journal, 2023** \| [![](https://img.shields.io/github/stars/lmomoy/LF-YOLO?style=social&label=Code Stars)](https://github.com/lmomoy/LF-YOLO)
 
