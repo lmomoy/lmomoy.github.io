@@ -44,7 +44,7 @@ My current research interest is computer vision including object detection, imag
 
 # 📝 Under Review or Revision
 
-[MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving]
+MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving
 
 **Moyun Liu**, Youping Chen, Jingming Xie, Lei He, Yang Zhang et al.
 
