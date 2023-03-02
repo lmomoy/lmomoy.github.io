@@ -42,6 +42,14 @@ My current research interest is computer vision including object detection, imag
 # 💻 Internships
 - *2022.07 - 2022.08*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/en/giv/intelligent-automotive-solution-2030), Shanghai, China.
 
+# 📝 Under Review or Revision
+
+[MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving]
+
+**Moyun Liu**, Youping Chen, Jingming Xie, Lei He, Yang Zhang et al.
+
+**IEEE Intelligent Transportation Systems Transactions (TITS) (Under Review)**
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="sym" width="100%"></div>
