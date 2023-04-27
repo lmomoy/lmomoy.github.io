@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing Ph.D. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology under the supervision of <a href="http://mse.hust.edu.cn/info/1145/1413.htm">Youping Chen</a>. Previously, I received my M.S. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology under the supervision of <a href="http://mse.hust.edu.cn/info/1145/1415.htm">Jingming Xie</a> (2021), and B.S. degree in Hubei University of Technology (2019).
+I am pursuing Ph.D. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology. Previously, I received my M.S. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology (2021), and B.S. degree in Hubei University of Technology (2019).
 
 My current research interest is computer vision including object detection, image segmentation, and multimodal fusion for autonomous driving.
 
