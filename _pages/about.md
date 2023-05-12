@@ -48,7 +48,7 @@ My current research interest is computer vision including object detection, imag
 
 **Moyun Liu**, Youping Chen, Jingming Xie, Lei He, Yang Zhang et al.
 
-*IEEE Intelligent Transportation Systems Transactions (TITS) (Under Review)*
+*IEEE Intelligent Transportation Systems Transactions (TITS) (Major Revision)*
 
 # 📝 Publications 
 
