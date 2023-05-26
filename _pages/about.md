@@ -19,6 +19,8 @@ redirect_from:
 
 I am pursuing Ph.D. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology. Previously, I received my M.S. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology (2021), and B.S. degree in Hubei University of Technology (2019).
 
+Now, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Joey Tianyi Zhou](https://joeyzhouty.github.io/). 
+
 My current research interest is computer vision including object detection, image segmentation, and multimodal fusion for autonomous driving.
 
 
