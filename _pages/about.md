@@ -46,7 +46,7 @@ My current research interest is computer vision including object detection, imag
 - *2022.07 - 2022.08*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/en/giv/intelligent-automotive-solution-2030), Shanghai, China.
 
 
-# 👨‍🎓 Academic service
+# 👨‍🎓 Academic Service
 
  - **Reviewer**
 
