@@ -84,7 +84,7 @@ My current research interest is computer vision including object detection, imag
 Yang Zhang*, **Moyun Liu**, Huiming Zhang, Guodong Sun, and Jingwu He
 
 **Pattern Recognition, 2023** 
-- We propose a weld defect detection method based on convolution neural network, namely Lighter and Faster YOLO (LF-YOLO). 
+- we propose an adaptive fusion affinity graph (AFA-graph) with noise-free low-rank representation in an online manner for natural image segmentation
 </div>
 </div>
 
@@ -127,8 +127,7 @@ Yang Zhang, **Moyun Liu**, Jingwu He, Fei Pan, Yanwen Guo
 **IEEE Transactions on Multimedia, 2021** \| [![](https://img.shields.io/github/stars/Yangzhangcst/AF-graph?style=social&label=Code Stars)](https://github.com/Yangzhangcst/AF-graph)
 
 - We propose an affinity fusion graph framework to effectively connect different graphs with highly discriminating power and nonlinearity for natural image segmentation.
-</div>
-</div>
+
 
 # 👨‍🎓 Academic service
  - **Reviewer**
