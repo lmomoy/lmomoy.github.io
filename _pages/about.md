@@ -45,6 +45,28 @@ My current research interest is computer vision including object detection, imag
 # 💻 Internships
 - *2022.07 - 2022.08*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/en/giv/intelligent-automotive-solution-2030), Shanghai, China.
 
+
+# 👨‍🎓 Academic service
+
+ - **Reviewer**
+
+ IEEE Transactions on Industrial Informatics
+
+ IEEE Transactions on Automation Science and Engineering
+ 
+ IEEE Transactions on Artificial Intelligence
+
+ IEEE Sensors Journal
+
+ IEEE Access
+
+ IET Image Processing
+
+- **Conference Service**
+
+Program Committees of 2023 the 1st International Conference on AI-generated Content (AIGC2023)
+
+
 # 📝 Under Review or Revision
 
 **MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving**
@@ -133,23 +155,3 @@ Yang Zhang, **Moyun Liu**, Jingwu He, Fei Pan, Yanwen Guo
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 👨‍🎓 Academic service
-
- - **Reviewer**
-
- IEEE Transactions on Industrial Informatics
-
- IEEE Transactions on Automation Science and Engineering
- 
- IEEE Transactions on Artificial Intelligence
-
- IEEE Sensors Journal
-
- IEEE Access
-
- IET Image Processing
-
-- **Conference Service**
-
-Program Committees of 2023 the 1st International Conference on AI-generated Content (AIGC2023)

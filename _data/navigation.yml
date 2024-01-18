@@ -9,14 +9,14 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
+  - title: "Academic service"
+    url: "/#-Academic service"
+
   # - title: "News"
   #   url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Academic service"
-    url: "/#-Academic service"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
