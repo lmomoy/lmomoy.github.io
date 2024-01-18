@@ -53,6 +53,13 @@ My current research interest is computer vision including object detection, imag
 
 *IEEE Intelligent Transportation Systems Transactions (TITS) (Major Revision)*
 
+
+**A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving**
+
+**Moyun Liu**, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang et al.
+
+*Knowledge-Based Systems (Under Review)*
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="sym" width="100%"></div>
@@ -109,3 +116,22 @@ Yang Zhang, **Moyun Liu**, Jingwu He, Fei Pan, Yanwen Guo
 - We propose an affinity fusion graph framework to effectively connect different graphs with highly discriminating power and nonlinearity for natural image segmentation.
 </div>
 </div>
+
+# 👨‍🎓 Academic service
+ - **Reviewer**
+
+ IEEE Transactions on Industrial Informatics
+
+ IEEE Transactions on Automation Science and Engineering
+ 
+ IEEE Transactions on Artificial Intelligence
+
+ IEEE Sensors Journal
+
+ IEEE Access
+
+ IET Image Processing
+
+- **Conference Service**
+
+Program Committees of 2023 the 1st International Conference on AI-generated Content (AIGC2023)
