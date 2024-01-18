@@ -43,7 +43,7 @@ My current research interest is computer vision including object detection, imag
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.07 - 2022.08*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/en/giv/intelligent-automotive-solution-2030), Shanghai, China.
+- *2022.07 - 2022.09*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/en/giv/intelligent-automotive-solution-2030), Shanghai, China.
 
 
 # 👨‍🎓 Academic Service
@@ -103,7 +103,7 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 
 [Adaptive fusion affinity graph with noise-free online low-rank representation for natural image segmentation](https://arxiv.org/pdf/2110.11685.pdf)
 
-Yang Zhang*, **Moyun Liu**, Huiming Zhang, Guodong Sun, and Jingwu He
+Yang Zhang, **Moyun Liu**, Huiming Zhang, Guodong Sun, and Jingwu He
 
 **Pattern Recognition, 2023** 
 - We propose an adaptive fusion affinity graph (AFA-graph) with noise-free low-rank representation in an online manner for natural image segmentation
