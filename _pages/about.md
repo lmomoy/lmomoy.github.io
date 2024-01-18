@@ -128,7 +128,6 @@ Yang Zhang, **Moyun Liu**, Jingwu He, Fei Pan, Yanwen Guo
 
 - We propose an affinity fusion graph framework to effectively connect different graphs with highly discriminating power and nonlinearity for natural image segmentation.
 
-
 # 👨‍🎓 Academic service
  - **Reviewer**
 
