@@ -76,6 +76,19 @@ My current research interest is computer vision including object detection, imag
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/AFAG.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive fusion affinity graph with noise-free online low-rank representation for natural image segmentation](https://arxiv.org/pdf/2110.11685.pdf)
+
+Yang Zhang*, **Moyun Liu**, Huiming Zhang, Guodong Sun, and Jingwu He
+
+**Pattern Recognition, 2023** 
+- We propose a weld defect detection method based on convolution neural network, namely Lighter and Faster YOLO (LF-YOLO). 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/CII.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
