@@ -19,7 +19,7 @@ redirect_from:
 
 I am pursuing Ph.D. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology. Previously, I received my M.S. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology (2021), and B.S. degree in Hubei University of Technology (2019).
 
-Now, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Joey Tianyi Zhou](https://joeyzhouty.github.io/). 
+Now, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Joey Tianyi Zhou](https://joeyzhouty.github.io/) and [Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=zh-CN&oi=ao). 
 
 My current research interest is computer vision including object detection, image segmentation, and multimodal fusion for autonomous driving.
 
@@ -50,17 +50,23 @@ My current research interest is computer vision including object detection, imag
 
  - **Reviewer**
 
- IEEE Transactions on Industrial Informatics
+IEEE Transactions on Intelligent Vehicles
 
- IEEE Transactions on Automation Science and Engineering
- 
- IEEE Transactions on Artificial Intelligence
+IEEE Transactions on Industrial Informatics
 
- IEEE Sensors Journal
+IEEE Transactions on Automation Science and Engineering
 
- IEEE Access
+IEEE Transactions on Artificial Intelligence
 
- IET Image Processing
+IEEE Sensors Journal
+
+IEEE Access
+
+IET Image Processing
+
+Neural Processing Letters
+
+Signal, Image and Video Processing
 
 - **Conference Service**
 
@@ -69,20 +75,34 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 
 # 📝 Under Review or Revision
 
-**MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving**
-
-**Moyun Liu**, Youping Chen, Jingming Xie, Lei He, Yang Zhang et al.
-
-*IEEE Intelligent Transportation Systems Transactions (TITS) (Major Revision)*
-
-
 **A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving**
 
-**Moyun Liu**, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang et al.
+**Moyun Liu**, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang et al.
 
-*Knowledge-Based Systems (Under Review)*
+*Knowledge-Based Systems (Conditionally Accepted)*
+
+**Towards Better Unguided Depth Completion via Cross-Modality Distillation Knowledge in the Frequency Domain**
+
+**Moyun Liu**, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang et al.
+
+*IEEE Transactions on Intelligent Vehicles (Revision)*
+
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/MENet.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving]()
+
+**Moyun Liu**, Youping Chen, Jingming Xie, Yijie Zhu, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
+
+**IEEE Transactions on Intelligent Transportation Systems, 2024**
+
+- We propose a multi-modal mapping enhancement network named MENet for 3D object detection. 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
