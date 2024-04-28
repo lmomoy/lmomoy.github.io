@@ -75,8 +75,6 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 
 # 📝 Under Review or Revision
 
-**A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving**
-
 **Towards Better Unguided Depth Completion via Cross-Modality Distillation Knowledge in the Frequency Domain**
 
 **Moyun Liu**, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang et al.
