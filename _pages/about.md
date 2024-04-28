@@ -77,15 +77,11 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 
 **A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving**
 
-**Moyun Liu**, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang et al.
-
-*Knowledge-Based Systems (Conditionally Accepted)*
-
 **Towards Better Unguided Depth Completion via Cross-Modality Distillation Knowledge in the Frequency Domain**
 
 **Moyun Liu**, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang et al.
 
-*IEEE Transactions on Intelligent Vehicles (Revision)*
+*IEEE Transactions on Intelligent Vehicles (Minor Revision)*
 
 
 # 📝 Publications 
@@ -100,6 +96,20 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 **IEEE Transactions on Intelligent Transportation Systems, 2024**
 
 - We propose a multi-modal mapping enhancement network named MENet for 3D object detection. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/CHNet.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving]()
+
+**Moyun Liu**, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang, Joey Tianyi Zhou
+
+**Knowledge-Based Systems, 2024** \| [![](https://img.shields.io/github/stars/lmomoy/CHNet?style=social&label=Code Stars)](https://github.com/lmomoy/CHNet)
+
+- We propose a fast and effective depth completion network based on the image guidance. 
 </div>
 </div>
 
