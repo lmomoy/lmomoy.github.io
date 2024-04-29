@@ -89,7 +89,7 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 
 [MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving]()
 
-**Moyun Liu**, Youping Chen, Jingming Xie, Yijie Zhu, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
+<span style="color:red; font-weight:bold;">Moyun Liu</span>, Youping Chen, Jingming Xie, Yijie Zhu, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
 
 **IEEE Transactions on Intelligent Transportation Systems, 2024**
 
@@ -103,7 +103,7 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 
 [A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving]()
 
-**Moyun Liu**, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang, Joey Tianyi Zhou
+<span style="color:red; font-weight:bold;">Moyun Liu</span>, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang, Joey Tianyi Zhou
 
 **Knowledge-Based Systems, 2024** \| [![](https://img.shields.io/github/stars/lmomoy/CHNet?style=social&label=Code Stars)](https://github.com/lmomoy/CHNet)
 
@@ -117,7 +117,7 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 
 [LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image](https://arxiv.org/pdf/2110.15045.pdf)
 
-**Moyun Liu**, Youping Chen, Jingming Xie, Lei He, Yang Zhang
+<span style="color:red; font-weight:bold;">Moyun Liu</span>, Youping Chen, Jingming Xie, Lei He, Yang Zhang
 
 **IEEE Sensors Journal, 2023** \| [![](https://img.shields.io/github/stars/lmomoy/LF-YOLO?style=social&label=Code Stars)](https://github.com/lmomoy/LF-YOLO)
 
@@ -131,7 +131,7 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 
 [Adaptive fusion affinity graph with noise-free online low-rank representation for natural image segmentation](https://arxiv.org/pdf/2110.11685.pdf)
 
-Yang Zhang, **Moyun Liu**, Huiming Zhang, Guodong Sun, and Jingwu He
+Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Huiming Zhang, Guodong Sun, and Jingwu He
 
 **Pattern Recognition, 2023** 
 - We propose an adaptive fusion affinity graph (AFA-graph) with noise-free low-rank representation in an online manner for natural image segmentation
@@ -144,7 +144,7 @@ Yang Zhang, **Moyun Liu**, Huiming Zhang, Guodong Sun, and Jingwu He
 
 [A lightweight and accurate recognition framework for signs of X-ray weld images](https://arxiv.org/pdf/2110.09278.pdf)
 
-**Moyun Liu**, Jingming Xie, Jing Hao, Yang Zhang, Xuzhan Chen, Youping Chen
+<span style="color:red; font-weight:bold;">Moyun Liu</span>, Jingming Xie, Jing Hao, Yang Zhang, Xuzhan Chen, Youping Chen
 
 **Computers in Industry, 2022**
 
@@ -158,7 +158,7 @@ Yang Zhang, **Moyun Liu**, Huiming Zhang, Guodong Sun, and Jingwu He
 
 [A Unified Light Framework for Real-time Fault Detection of Freight Train Images](https://arxiv.org/pdf/2102.00381.pdf)
 
-Yang Zhang, **Moyun Liu\***, Yang Yang, Yanwen Guo, Huiming Zhang
+Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Yang Yang, Yanwen Guo, Huiming Zhang
 
 **IEEE Transactions on Industrial Informatics, 2021**
 
@@ -172,7 +172,7 @@ Yang Zhang, **Moyun Liu\***, Yang Yang, Yanwen Guo, Huiming Zhang
 
 [Affinity fusion graph-based framework for natural image segmentation](https://arxiv.org/pdf/2006.13542.pdf)
 
-Yang Zhang, **Moyun Liu**, Jingwu He, Fei Pan, Yanwen Guo
+Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Jingwu He, Fei Pan, Yanwen Guo
 
 **IEEE Transactions on Multimedia, 2021** \| [![](https://img.shields.io/github/stars/Yangzhangcst/AF-graph?style=social&label=Code Stars)](https://github.com/Yangzhangcst/AF-graph)
 
