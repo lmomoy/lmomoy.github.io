@@ -87,7 +87,7 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 <div class='paper-box'><div class='paper-box-image'><img src='images/MENet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving]()
+[MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving](https://ieeexplore.ieee.org/document/10510171)
 
 <span style="color:red; font-weight:bold;">Moyun Liu</span>, Youping Chen, Jingming Xie, Yijie Zhu, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
 
