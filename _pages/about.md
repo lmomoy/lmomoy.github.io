@@ -73,16 +73,28 @@ Signal, Image and Video Processing
 Program Committees of 2023 the 1st International Conference on AI-generated Content (AIGC2023)
 
 
-# 📝 Under Review or Revision
+<!-- # 📝 Under Review or Revision
 
 **Towards Better Unguided Depth Completion via Cross-Modality Distillation Knowledge in the Frequency Domain**
 
 **Moyun Liu**, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang et al.
 
-*IEEE Transactions on Intelligent Vehicles (Minor Revision)*
+*IEEE Transactions on Intelligent Vehicles (Minor Revision)* -->
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><img src='images/BUNet.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain]()
+
+<span style="color:red; font-weight:bold;">Moyun Liu</span>, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang, Qin Hu, Jiawei Du, Joey Tianyi Zhou
+
+**IEEE Transactions on Intelligent Vehicles, 2024**
+
+- We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/MENet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
