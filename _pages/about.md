@@ -113,7 +113,7 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 <div class='paper-box'><div class='paper-box-image'><img src='images/CHNet-kbs.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving]()
+[A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S0950705124005112)
 
 <span style="color:red; font-weight:bold;">Moyun Liu</span>, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang, Joey Tianyi Zhou
 
