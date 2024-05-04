@@ -86,7 +86,8 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 <div class='paper-box'><div class='paper-box-image'><img src='images/BUNet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain]()
+[Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain](
+https://ieeexplore.ieee.org/document/10517614)
 
 <span style="color:red; font-weight:bold;">Moyun Liu</span>, Bing Chen, Youping Chen, Jingming Xie, Lei Yao, Yang Zhang, Qin Hu, Jiawei Du, Joey Tianyi Zhou
 
