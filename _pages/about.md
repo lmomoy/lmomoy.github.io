@@ -194,6 +194,20 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Jingwu 
 - We propose an affinity fusion graph framework to effectively connect different graphs with highly discriminating power and nonlinearity for natural image segmentation.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/TIM2020.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Real-time vision-based system of fault detection for freight trains](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911418)
+
+Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian Chen, Hongjie Zhang, Yanwen Guo
+
+**IEEE Transactions on Instrumentation and Measurement, 2020**
+
+- We propose a real-time vision-based system of fault detection (RVBS-FD) for freight trains aims to complete routine maintenance tasks efficiently for ensuring railway transportation security..
+</div>
+</div>
 <!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
