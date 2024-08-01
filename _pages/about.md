@@ -210,16 +210,17 @@ https://www.sciencedirect.com/science/article/pii/S0952197624009485)
 Guodong Sun, Junjie Liu, Mingxuan Liu, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhang
 
 [SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](
-https://arxiv.org/abs/2407.11564)
+https://arxiv.org/pdf/2407.11564)
 
-**Arxiv, 2024**
+**Arxiv, 2024** \| [![](https://img.shields.io/github/stars/RayYoh/SGIFormer?style=social&label=Code Stars)](https://github.com/RayYoh/SGIFormer)
+
 
 Lei Yao, Yi Wang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
 
 [GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis](
 https://arxiv.org/pdf/2401.15282)
 
-**Arxiv, 2024**
+**Arxiv, 2024** \| [![](https://img.shields.io/github/stars/isbrycee/GEM?style=social&label=Code Stars)](https://github.com/isbrycee/GEM)
 
 <span style="color:red; font-weight:bold;">Jing Hao\*</span>, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Kuo Feng Hung
 
