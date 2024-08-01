@@ -82,7 +82,7 @@ Program Committees of 2023 the 1st International Conference on AI-generated Cont
 *IEEE Transactions on Intelligent Vehicles (Minor Revision)* -->
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><img src='images/BUNet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -198,3 +198,34 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Jingwu 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
+
+
+# 📝 Other Publications 
+
+[Multiple prior representation learning for self-supervised monocular depth estimation via hybrid transformer](
+https://www.sciencedirect.com/science/article/pii/S0952197624009485)
+
+**Engineering Applications of Artificial Intelligence, 2024**
+
+Guodong Sun, Junjie Liu, Mingxuan Liu, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhang
+
+[SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](
+https://arxiv.org/abs/2407.11564)
+
+**Arxiv, 2024**
+
+Lei Yao, Yi Wang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
+
+[GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis](
+https://arxiv.org/pdf/2401.15282)
+
+**Arxiv, 2024**
+
+<span style="color:red; font-weight:bold;">Jing Hao\*</span>, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Kuo Feng Hung
+
+[BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping](
+https://www.sciencedirect.com/science/article/pii/S0262885623002093)
+
+**Image and Vision Computing, 2023**
+
+Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Lei Yao, Youping Chen
