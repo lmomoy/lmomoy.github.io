@@ -197,9 +197,6 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Jingwu 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
-
-
 # 📝 Other Publications 
 
 [Multiple prior representation learning for self-supervised monocular depth estimation via hybrid transformer](
@@ -230,3 +227,6 @@ https://www.sciencedirect.com/science/article/pii/S0262885623002093)
 **Image and Vision Computing, 2023**
 
 Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Lei Yao, Youping Chen
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
