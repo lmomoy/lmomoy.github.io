@@ -12,11 +12,8 @@ main:
   - title: "Academic Service"
     url: "/#-academic-service"
 
-  # - title: "News"
-  #   url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications "
+    url: "/#-selected-Publications "
 
   - title: "Other Publications "
     url: "/#-other-publications "

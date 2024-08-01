@@ -62,6 +62,8 @@ IEEE Sensors Journal
 
 IEEE Access
 
+Engineering Applications of Artificial Intelligence
+
 IET Image Processing
 
 Neural Processing Letters
