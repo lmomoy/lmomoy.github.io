@@ -242,7 +242,7 @@ https://www.sciencedirect.com/science/article/pii/S0262885623002093)
 
 **Image and Vision Computing, 2023**
 
-Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Lei Yao, Youping Chen
+Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lei Yao, Youping Chen
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
