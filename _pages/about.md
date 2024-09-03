@@ -45,36 +45,6 @@ My current research interest is computer vision including object detection, imag
 # 💻 Internships
 - *2022.07 - 2022.09*, [Huawei Intelligent Automotive Solution Business Unit](https://www.huawei.com/en/giv/intelligent-automotive-solution-2030), Shanghai, China.
 
-
-# 👨‍🎓 Academic Service
-
- - **Reviewer**
-
-IEEE Transactions on Intelligent Vehicles
-
-IEEE Transactions on Industrial Informatics
-
-IEEE Transactions on Automation Science and Engineering
-
-IEEE Transactions on Artificial Intelligence
-
-IEEE Sensors Journal
-
-IEEE Access
-
-Engineering Applications of Artificial Intelligence
-
-IET Image Processing
-
-Neural Processing Letters
-
-Signal, Image and Video Processing
-
-- **Conference Service**
-
-Program Committees of 2023 the 1st International Conference on AI-generated Content (AIGC2023)
-
-
 <!-- # 📝 Under Review or Revision
 
 **Towards Better Unguided Depth Completion via Cross-Modality Distillation Knowledge in the Frequency Domain**
@@ -243,6 +213,30 @@ https://www.sciencedirect.com/science/article/pii/S0262885623002093)
 **Image and Vision Computing, 2023**
 
 Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lei Yao, Youping Chen
+
+# 👨‍🎓 Academic Service
+
+ - **Reviewer**
+
+IEEE Transactions on Intelligent Vehicles
+
+IEEE Transactions on Industrial Informatics
+
+IEEE Transactions on Automation Science and Engineering
+
+IEEE Transactions on Artificial Intelligence
+
+IEEE Sensors Journal
+
+IEEE Access
+
+Computers in Industry
+
+Engineering Applications of Artificial Intelligence
+
+- **Conference Service**
+
+Program Committees of 2023 the 1st International Conference on AI-generated Content (AIGC2023)
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
