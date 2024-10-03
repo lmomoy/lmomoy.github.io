@@ -228,7 +228,7 @@ IEEE Transactions on Artificial Intelligence
 
 IEEE Sensors Journal
 
-IEEE Access
+Pattern Recognition
 
 Computers in Industry
 
