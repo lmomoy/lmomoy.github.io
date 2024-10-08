@@ -190,7 +190,16 @@ https://www.sciencedirect.com/science/article/pii/S0952197624009485)
 
 **Engineering Applications of Artificial Intelligence, 2024**
 
-Guodong Sun, Junjie Liu, Mingxuan Liu, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhang
+Guodong Sun, Junjie Liu, Mingxuan Liu, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhou
+
+
+[Efficient Visual Fault Detection for Freight Train via Neural Architecture Search With Data Volume Robustness](
+https://ieeexplore.ieee.org/document/10570157)
+
+**IEEE Transactions on Industrial Informatics, 2024**
+
+Yang Zhang, Mingying Li, Huilin Pan, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhang
+
 
 [SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](
 https://arxiv.org/pdf/2407.11564)
@@ -227,6 +236,8 @@ IEEE Transactions on Automation Science and Engineering
 IEEE Transactions on Artificial Intelligence
 
 IEEE Sensors Journal
+
+International Conference on Learning Representations (ICLR)
 
 Pattern Recognition
 
