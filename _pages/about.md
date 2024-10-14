@@ -228,7 +228,8 @@ Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu</s
 <div class='paper-box-text' markdown="1">
 
 The 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICCAI2024**
-
+</div>
+</div>
 
 # 👨‍🎓 Academic Service
 
