@@ -223,6 +223,13 @@ https://www.sciencedirect.com/science/article/pii/S0262885623002093)
 
 Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lei Yao, Youping Chen
 
+# 👬 Competition
+<div class='paper-box'><div class='paper-box-image'><img src='images/certificate.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+The 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICCAI2024**
+
+
 # 👨‍🎓 Academic Service
 
  - **Reviewer**
