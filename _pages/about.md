@@ -97,6 +97,20 @@ https://ieeexplore.ieee.org/document/10517614)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/GEM.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models](https://arxiv.org/pdf/2307.12018)
+
+<span style="color:red; font-weight:bold;">Jing Hao, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Jinrong Yang, Kuo Feng Hung
+
+**IEEE Transactions on Multimedia, 2024** \| [![](https://github.com/isbrycee/GEM?style=social&label=Code Stars)](https://github.com/isbrycee/GEM)
+
+- The first to propose exploring to the solution of glass surface segmentation by fully harnessing the capabilities of existing VFMs. 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
