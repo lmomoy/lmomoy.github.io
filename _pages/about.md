@@ -102,7 +102,7 @@ https://ieeexplore.ieee.org/document/10517614)
 
 [GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models](https://arxiv.org/pdf/2307.12018)
 
-<span style="color:red; font-weight:bold;">Jing Hao, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Jinrong Yang, Kuo Feng Hung
+Jing Hao, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Jinrong Yang, Kuo Feng Hung
 
 **IEEE Transactions on Multimedia, 2024** \| [![](https://github.com/isbrycee/GEM?style=social&label=Code Stars)](https://github.com/isbrycee/GEM)
 
@@ -180,7 +180,7 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Jingwu 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/TIM-2020.png' alt="sym" width="100%"></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/TIM-2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-time vision-based system of fault detection for freight trains](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911418)
@@ -191,7 +191,7 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
 
 - We propose a real-time vision-based system of fault detection (RVBS-FD) for freight trains aims to complete routine maintenance tasks efficiently for ensuring railway transportation security.
 </div>
-</div>
+</div> -->
 <!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -236,6 +236,13 @@ https://www.sciencedirect.com/science/article/pii/S0262885623002093)
 **Image and Vision Computing, 2023**
 
 Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lei Yao, Youping Chen
+
+[Real-time vision-based system of fault detection for freight trains](
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911418)
+
+**IEEE Transactions on Instrumentation and Measurement, 2020**
+
+Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian Chen, Hongjie Zhang, Yanwen Guo
 
 # 👬 Competition
 <div class='paper-box'><div class='paper-box-image'><img src='images/certificate.jpg' alt="sym" width="70%"></div>
