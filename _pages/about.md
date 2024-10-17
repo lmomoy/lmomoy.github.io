@@ -223,12 +223,12 @@ https://arxiv.org/pdf/2407.11564)
 
 Lei Yao, Yi Wang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
 
-[GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis](
+<!-- [GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis](
 https://arxiv.org/pdf/2401.15282)
 
 **Arxiv, 2024** \| [![](https://img.shields.io/github/stars/isbrycee/GEM?style=social&label=Code Stars)](https://github.com/isbrycee/GEM)
 
-<span style="color:red; font-weight:bold;">Jing Hao\*</span>, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Kuo Feng Hung
+<span style="color:red; font-weight:bold;">Jing Hao\*</span>, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Kuo Feng Hung -->
 
 [BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping](
 https://www.sciencedirect.com/science/article/pii/S0262885623002093)
