@@ -104,7 +104,7 @@ https://ieeexplore.ieee.org/document/10517614)
 
 Jing Hao, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Jinrong Yang, Kuo Feng Hung
 
-**IEEE Transactions on Multimedia, 2024** \| [![](https://github.com/isbrycee/GEM?style=social&label=Code Stars)](https://github.com/isbrycee/GEM)
+**IEEE Transactions on Multimedia, 2024** \| [![](https://img.shields.io/github/stars/isbrycee/GEM?style=social&label=Code Stars)](https://github.com/isbrycee/GEM)
 
 - The first to propose exploring to the solution of glass surface segmentation by fully harnessing the capabilities of existing VFMs. 
 </div>
