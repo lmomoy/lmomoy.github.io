@@ -176,8 +176,8 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Jingwu 
 **IEEE Transactions on Multimedia, 2021** \| [![](https://img.shields.io/github/stars/Yangzhangcst/AF-graph?style=social&label=Code Stars)](https://github.com/Yangzhangcst/AF-graph)
 
 - We propose an affinity fusion graph framework to effectively connect different graphs with highly discriminating power and nonlinearity for natural image segmentation.
-<!-- </div>
-</div> -->
+</div>
+</div>
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/TIM-2020.png' alt="sym" width="100%"></div>
