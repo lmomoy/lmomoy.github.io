@@ -25,9 +25,10 @@ My current research interest is computer vision including object detection, imag
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉 I Won the National Scholarship for PhD Student! !
 - *2024.11*: &nbsp;🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" has been accepted by **IEEE TCSVT** ! [Paper](https://arxiv.org/pdf/2407.11564)
 - *2024.10*: &nbsp;🎉 Our work "GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models" has been accepted by **IEEE TMM** ! [Paper](https://arxiv.org/pdf/2307.12018)
-- *2024.10*: &nbsp;🎉 We got 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on MICCAI2024 !
+- *2024.10*: &nbsp;🎉 We got 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICCAI2024** !
 - *2024.05*: &nbsp;🎉 Our work "Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain" has been accepted by **IEEE TIV** ! [Paper](https://ieeexplore.ieee.org/document/10517614)
 - *2024.04*: &nbsp;🎉 Our work "MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving" has been accepted by **IEEE TITS** ! [Paper](https://ieeexplore.ieee.org/document/10510171)
 
