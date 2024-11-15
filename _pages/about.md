@@ -222,7 +222,7 @@ Yang Zhang, Mingying Li, Huilin Pan, <span style="color:red; font-weight:bold;">
 [SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](
 https://arxiv.org/pdf/2407.11564)
 
-**Arxiv, 2024** \| [![](https://img.shields.io/github/stars/RayYoh/SGIFormer?style=social&label=Code Stars)](https://github.com/RayYoh/SGIFormer)
+**IEEE Transactions on Circuits and Systems for Video Technology, 2024** \| [![](https://img.shields.io/github/stars/RayYoh/SGIFormer?style=social&label=Code Stars)](https://github.com/RayYoh/SGIFormer)
 
 
 Lei Yao, Yi Wang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
@@ -248,13 +248,13 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911418)
 
 Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian Chen, Hongjie Zhang, Yanwen Guo
 
-# 👬 Competition
+<!-- # 👬 Competition
 <div class='paper-box'><div class='paper-box-image'><img src='images/certificate.jpg' alt="sym" width="70%"></div>
 <div class='paper-box-text' markdown="1">
 
 The 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICCAI2024**. Many thanks to our team leader, [Jing HAO](https://isbrycee.github.io/).
 </div>
-</div>
+</div> -->
 
 # 👨‍🎓 Academic Service
 
