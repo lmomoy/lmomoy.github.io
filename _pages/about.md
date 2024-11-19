@@ -21,7 +21,7 @@ I am pursuing Ph.D. degree in School of Mechanical Science and Engineering, Huaz
 
 Now, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Joey Tianyi Zhou](https://joeyzhouty.github.io/) and [Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=zh-CN&oi=ao). 
 
-My current research interest is computer vision including object detection, image segmentation, and multimodal fusion for autonomous driving.
+My current research interest is computer vision including autonomous driving, multi-modality fusion, and embodied AI.
 
 
 # 🔥 News
