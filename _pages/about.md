@@ -260,6 +260,8 @@ The 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICC
 
  - **Reviewer**
 
+IEEE Transactions on Intelligent Transportation Systems
+
 IEEE Transactions on Intelligent Vehicles
 
 IEEE Transactions on Industrial Informatics
