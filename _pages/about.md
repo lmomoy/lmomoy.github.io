@@ -25,6 +25,7 @@ My current research interest is computer vision including autonomous driving, mu
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🏆 Our previous paper "LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image" has been selected as an **ESI Highly Cited Paper** ! [Paper](https://ieeexplore.ieee.org/abstract/document/10054502)
 - *2024.11*: &nbsp;🎉 I Won the National Scholarship for PhD Student !
 - *2024.11*: &nbsp;🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" has been accepted by **IEEE TCSVT** ! [Paper](https://arxiv.org/pdf/2407.11564)
 - *2024.10*: &nbsp;🎉 Our work "GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models" has been accepted by **IEEE TMM** ! [Paper](https://arxiv.org/pdf/2307.12018)
