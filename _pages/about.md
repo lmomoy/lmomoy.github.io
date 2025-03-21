@@ -275,13 +275,17 @@ IEEE Transactions on Artificial Intelligence
 
 IEEE Sensors Journal
 
-International Conference on Learning Representations (ICLR)
+Information Fusion
 
 Pattern Recognition
 
 Computers in Industry
 
 Engineering Applications of Artificial Intelligence
+
+Expert Systems With Applications 
+
+International Conference on Learning Representations (ICLR)
 
 - **Conference Service**
 
