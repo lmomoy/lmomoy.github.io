@@ -25,10 +25,10 @@ My current research interest is computer vision including autonomous driving, mu
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉 Our work "MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even" has been accepted by **Information Fusion** ! [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520)[Code](https://github.com/lmomoy/MAENet)
-- *2025.03*: &nbsp;🏆 Our previous paper "LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image" has been selected as an **ESI Highly Cited Paper** ! [Paper](https://ieeexplore.ieee.org/abstract/document/10054502)[Code](https://github.com/lmomoy/LF-YOLO)
+- *2025.04*: &nbsp;🎉 Our work "MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even" has been accepted by **Information Fusion** ! [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520) [Code](https://github.com/lmomoy/MAENet)
+- *2025.03*: &nbsp;🏆 Our previous paper "LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image" has been selected as an **ESI Highly Cited Paper** ! [Paper](https://ieeexplore.ieee.org/abstract/document/10054502) [Code](https://github.com/lmomoy/LF-YOLO)
 - *2024.11*: &nbsp;🎉 I Won the National Scholarship for PhD Student !
-- *2024.11*: &nbsp;🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" has been accepted by **IEEE TCSVT** ! [Paper](https://arxiv.org/pdf/2407.11564)[Code](https://github.com/RayYoh/SGIFormer)
+- *2024.11*: &nbsp;🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" has been accepted by **IEEE TCSVT** ! [Paper](https://arxiv.org/pdf/2407.11564) [Code](https://github.com/RayYoh/SGIFormer)
 - *2024.10*: &nbsp;🎉 Our work "GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models" has been accepted by **IEEE TMM** ! [Paper](https://arxiv.org/pdf/2307.12018)[Code](https://github.com/isbrycee/GEM)
 - *2024.10*: &nbsp;🎉 We got 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICCAI2024** !
 - *2024.05*: &nbsp;🎉 Our work "Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain" has been accepted by **IEEE TIV** ! [Paper](https://ieeexplore.ieee.org/document/10517614)
