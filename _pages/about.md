@@ -61,7 +61,7 @@ My current research interest is computer vision including autonomous driving, mu
 
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><img src='images/MAENet.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/MAEnet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even](
