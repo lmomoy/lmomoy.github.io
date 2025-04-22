@@ -17,20 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing Ph.D. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology. Previously, I received my M.S. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology (2021), and B.S. degree in Hubei University of Technology (2019).
+I am pursuing Ph.D. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology. Previously, I received my M.S. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology (2021), and B.S. degree in Hubei University of Technology (2019). I was a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore (2023-2025), supervised by [Joey Tianyi Zhou](https://joeyzhouty.github.io/) and [Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=zh-CN&oi=ao). 
 
-Now, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Joey Tianyi Zhou](https://joeyzhouty.github.io/) and [Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=zh-CN&oi=ao). 
-
-My current research interest is computer vision including autonomous driving, multi-modality fusion, and embodied AI.
+My current research interest includes 3D vision, multi-modality fusion, and embodied AI.
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🙏 My visit at A*STAR has come to an end. I’m grateful to everyone I encountered!
 - *2025.04*: &nbsp;🎉 Our work "MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even" has been accepted by **Information Fusion** ! [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520) [Code](https://github.com/lmomoy/MAENet)
 - *2025.03*: &nbsp;🏆 Our previous paper "LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image" has been selected as an **ESI Highly Cited Paper** ! [Paper](https://ieeexplore.ieee.org/abstract/document/10054502) [Code](https://github.com/lmomoy/LF-YOLO)
-- *2024.11*: &nbsp;🎉 I Won the National Scholarship for PhD Student !
+- *2024.11*: &nbsp;💰 I Won the National Scholarship for PhD Student !
 - *2024.11*: &nbsp;🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" has been accepted by **IEEE TCSVT** ! [Paper](https://arxiv.org/pdf/2407.11564) [Code](https://github.com/RayYoh/SGIFormer)
 - *2024.10*: &nbsp;🎉 Our work "GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models" has been accepted by **IEEE TMM** ! [Paper](https://arxiv.org/pdf/2307.12018) [Code](https://github.com/isbrycee/GEM)
-- *2024.10*: &nbsp;🎉 We got 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICCAI2024** !
+- *2024.10*: &nbsp;🏆 We got 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICCAI2024** !
 - *2024.05*: &nbsp;🎉 Our work "Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain" has been accepted by **IEEE TIV** ! [Paper](https://ieeexplore.ieee.org/document/10517614)
 - *2024.04*: &nbsp;🎉 Our work "MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving" has been accepted by **IEEE TITS** ! [Paper](https://ieeexplore.ieee.org/document/10510171)
 
