@@ -296,11 +296,15 @@ Pattern Recognition
 
 Computers in Industry
 
+Knowledge-Based Systems
+
 Engineering Applications of Artificial Intelligence
 
 Expert Systems With Applications 
 
 International Conference on Learning Representations (ICLR)
+
+ACM Multimedia (ACMMM)
 
 - **Conference Service**
 
