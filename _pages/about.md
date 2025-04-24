@@ -136,6 +136,8 @@ Jing Hao\*, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Jinro
 
 [LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image](https://arxiv.org/pdf/2110.15045.pdf)
 
+🏆**ESI Highly Cited Paper**
+
 <span style="color:red; font-weight:bold;">Moyun Liu</span>, Youping Chen, Jingming Xie, Lei He, Yang Zhang
 
 **IEEE Sensors Journal, 2023** \| [![](https://img.shields.io/github/stars/lmomoy/LF-YOLO?style=social&label=Code Stars)](https://github.com/lmomoy/LF-YOLO)
