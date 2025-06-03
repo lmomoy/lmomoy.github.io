@@ -23,6 +23,7 @@ My current research interest includes 3D vision, multi-modality fusion, and embo
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🏆 <i><a href="https://github.com/RayYoh/LaSSM">LaSSM</a></i> and <i><a href="https://rayyoh.github.io/SGIFormer/">SGIFormer</a></i> obtain <strong>first</strong> and <strong>second</strong> places on <a href="https://kaldir.vc.in.tum.de/scannetpp/benchmark/insseg">CVPR 2025 ScanNet++ Challenge</a>, respectively.
 - *2025.04*: &nbsp;🙏 My visit at A*STAR has come to an end. I’m grateful to everyone I encountered!
 - *2025.04*: &nbsp;🎉 Our work "MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even" has been accepted by **Information Fusion** ! [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520) [Code](https://github.com/lmomoy/MAENet)
 - *2025.03*: &nbsp;🏆 Our previous paper "LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image" has been selected as an **ESI Highly Cited Paper** ! [Paper](https://ieeexplore.ieee.org/abstract/document/10054502) [Code](https://github.com/lmomoy/LF-YOLO)
