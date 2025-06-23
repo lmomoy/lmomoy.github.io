@@ -17,12 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing Ph.D. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology. Previously, I received my M.S. degree in School of Mechanical Science and Engineering, Huazhong University of Science and Technology (2021), and B.S. degree in Hubei University of Technology (2019). I was a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore (2023-2025), supervised by [Joey Tianyi Zhou](https://joeyzhouty.github.io/) and [Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=zh-CN&oi=ao). 
+I am currently a Postdoctoral Researcher in the School of Mechanical Science and Engineering at Huazhong University of Science and Technology (HUST), under the supervision of [Prof. Han Ding](https://en-mse.hust.edu.cn/info/1073/1993.htm) (Academician of the Chinese Academy of Sciences), [Prof. Bo Tao](https://en-mse.hust.edu.cn/info/1089/2064.htm), and [Prof. Xingwei Zhao](https://en-mse.hust.edu.cn/info/1121/2386.htm).  
+
+I received both my M.S. and Ph.D. degrees in Mechanical Science and Engineering from HUST in 2021 and 2025, respectively, where I was advised by [Prof. Youping Chen](https://baike.baidu.com/item/%E9%99%88%E5%B9%BC%E5%B9%B3/57397) and [Prof. Jingming Xie](https://mse.hust.edu.cn/info/1145/1415.htm). Prior to that, I obtained my B.S. degree from Hubei University of Technology in 2019. From 2023 to 2025, I was a visiting student at the A*STAR Centre for Frontier AI Research (CFAR), Singapore, where I worked under the supervision of [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=zh-CN&oi=ao).  
+
 
 My current research interest includes 3D vision, multi-modality fusion, and embodied AI.
 
 
 # 🔥 News
+- *2025.06*: &nbsp; 🚀 I joined the [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/index.htm), School of Mechanical Science and Engineering, HUST, as a Postdoctoral Researcher. I have started my research on humanoid robotics.
+- *2025.06*: &nbsp;🎓 I have successfully completed my Ph.D. at HUST! Grateful for the support from my advisors, colleagues, and everyone who accompanied me on this journey.
 - *2025.05*: &nbsp;🏆 Our <i><a href="https://github.com/RayYoh/LaSSM">LaSSM</a></i> and <i><a href="https://rayyoh.github.io/SGIFormer/">SGIFormer</a></i> obtain <strong>first</strong> and <strong>second</strong> places on <a href="https://kaldir.vc.in.tum.de/scannetpp/benchmark/insseg">CVPR 2025 ScanNet++ Challenge</a>, respectively. Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/).
 - *2025.04*: &nbsp;🙏 My visit at A*STAR has come to an end. I’m grateful to everyone I encountered!
 - *2025.04*: &nbsp;🎉 Our work "MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even" has been accepted by **Information Fusion** ! [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520) [Code](https://github.com/lmomoy/MAENet)
