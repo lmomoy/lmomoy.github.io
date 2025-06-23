@@ -312,7 +312,7 @@ Expert Systems With Applications
 
 International Conference on Learning Representations (ICLR)
 
-ACM Multimedia (ACMMM)
+ACM Multimedia (ACM MM)
 
 - **Conference Service**
 
