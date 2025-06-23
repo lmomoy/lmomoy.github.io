@@ -22,7 +22,7 @@ I am currently a Postdoctoral Researcher in the School of Mechanical Science and
 I received both my M.S. and Ph.D. degrees in Mechanical Science and Engineering from HUST in 2021 and 2025, respectively, where I was advised by [Prof. Youping Chen](https://baike.baidu.com/item/%E9%99%88%E5%B9%BC%E5%B9%B3/57397) and [Prof. Jingming Xie](https://mse.hust.edu.cn/info/1145/1415.htm). Prior to that, I obtained my B.S. degree from Hubei University of Technology in 2019. From 2023 to 2025, I was a visiting student at the A*STAR Centre for Frontier AI Research (CFAR), Singapore, where I worked under the supervision of [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=zh-CN&oi=ao).  
 
 
-My current research interest includes embodied AI, humanoid robotics, and embodied AI.
+My current research interest includes embodied AI, humanoid robotics, and multimodal fusion.
 
 
 # 🔥 News
