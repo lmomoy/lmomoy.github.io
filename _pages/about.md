@@ -26,7 +26,7 @@ My current research interest includes embodied AI, humanoid robotics, and multim
 
 
 # 🔥 News
-- *2025.07*: &nbsp; 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" has been accepted by **ACM MM 2025**! [Code](https://github.com/RayYoh/GaussianCross)
+- *2025.07*: &nbsp; 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" has been accepted by **ACM MM 2025**! [Paper (soon)] [Code](https://github.com/RayYoh/GaussianCross)
 - *2025.06*: &nbsp; 🚀 I joined the [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/index.htm), School of Mechanical Science and Engineering, HUST, as a Postdoctoral Researcher. I have started my research on humanoid robotics.
 - *2025.06*: &nbsp;🎓 I have successfully completed my Ph.D. at HUST! Grateful for the support from my advisors, colleagues, and everyone who accompanied me on this journey.
 - *2025.05*: &nbsp;🏆 Our <i><a href="https://github.com/RayYoh/LaSSM">LaSSM</a></i> and <i><a href="https://rayyoh.github.io/SGIFormer/">SGIFormer</a></i> obtain <strong>first</strong> and <strong>second</strong> places on <a href="https://kaldir.vc.in.tum.de/scannetpp/benchmark/insseg">CVPR 2025 ScanNet++ Challenge</a>, respectively. Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/).
