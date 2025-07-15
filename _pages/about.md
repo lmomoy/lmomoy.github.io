@@ -231,6 +231,7 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
   <li style="margin-bottom: 12px;">
     <a href="https://rayyoh.github.io/GaussianCross/"><strong>GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting</strong></a><br>
     <em>ACM MM, 2025</em><br>
+    &nbsp;|&nbsp; <a href="https://github.com/RayYoh/GaussianCross"><img src="https://img.shields.io/github/stars/RayYoh/GaussianCross?style=social&label=Code Stars" alt="Code Stars"></a><br>
     Lei Yao, Yi Wang, Yi Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
   </li>
 
