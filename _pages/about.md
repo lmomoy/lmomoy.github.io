@@ -227,58 +227,45 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 📝 Other Publications 
-[GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting](
-https://rayyoh.github.io/GaussianCross/)
+<ul style="list-style-type: none; padding-left: 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 1.4;">
+  <li style="margin-bottom: 12px;">
+    <a href="https://rayyoh.github.io/GaussianCross/"><strong>GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting</strong></a><br>
+    <em>ACM MM, 2025</em><br>
+    Lei Yao, Yi Wang, Yi Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
+  </li>
 
-**ACM MM, 2025**
+  <li style="margin-bottom: 12px;">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0952197624009485"><strong>Multiple prior representation learning for self-supervised monocular depth estimation via hybrid transformer</strong></a><br>
+    <em>Engineering Applications of Artificial Intelligence, 2024</em><br>
+    Guodong Sun, Junjie Liu, Mingxuan Liu, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhou
+  </li>
 
-Lei Yao, Yi Wang, Yi Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
+  <li style="margin-bottom: 12px;">
+    <a href="https://ieeexplore.ieee.org/document/10570157"><strong>Efficient Visual Fault Detection for Freight Train via Neural Architecture Search With Data Volume Robustness</strong></a><br>
+    <em>IEEE Transactions on Industrial Informatics, 2024</em><br>
+    Yang Zhang, Mingying Li, Huilin Pan, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhang
+  </li>
 
+  <li style="margin-bottom: 12px;">
+    <a href="https://arxiv.org/pdf/2407.11564"><strong>SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation</strong></a><br>
+    <em>IEEE Transactions on Circuits and Systems for Video Technology, 2024</em>
+    &nbsp;|&nbsp; <a href="https://github.com/RayYoh/SGIFormer"><img src="https://img.shields.io/github/stars/RayYoh/SGIFormer?style=social&label=Code Stars" alt="Code Stars"></a><br>
+    Lei Yao, Yi Wang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
+  </li>
 
-[Multiple prior representation learning for self-supervised monocular depth estimation via hybrid transformer](
-https://www.sciencedirect.com/science/article/pii/S0952197624009485)
+  <li style="margin-bottom: 12px;">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0262885623002093"><strong>BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping</strong></a><br>
+    <em>Image and Vision Computing, 2023</em><br>
+    Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lei Yao, Youping Chen
+  </li>
 
-**Engineering Applications of Artificial Intelligence, 2024**
+  <li style="margin-bottom: 12px;">
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911418"><strong>Real-time vision-based system of fault detection for freight trains</strong></a><br>
+    <em>IEEE Transactions on Instrumentation and Measurement, 2020</em><br>
+    Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian Chen, Hongjie Zhang, Yanwen Guo
+  </li>
+</ul>
 
-Guodong Sun, Junjie Liu, Mingxuan Liu, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhou
-
-
-[Efficient Visual Fault Detection for Freight Train via Neural Architecture Search With Data Volume Robustness](
-https://ieeexplore.ieee.org/document/10570157)
-
-**IEEE Transactions on Industrial Informatics, 2024**
-
-Yang Zhang, Mingying Li, Huilin Pan, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yang Zhang
-
-
-[SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](
-https://arxiv.org/pdf/2407.11564)
-
-**IEEE Transactions on Circuits and Systems for Video Technology, 2024** \| [![](https://img.shields.io/github/stars/RayYoh/SGIFormer?style=social&label=Code Stars)](https://github.com/RayYoh/SGIFormer)
-
-
-Lei Yao, Yi Wang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
-
-<!-- [GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis](
-https://arxiv.org/pdf/2401.15282)
-
-**Arxiv, 2024** \| [![](https://img.shields.io/github/stars/isbrycee/GEM?style=social&label=Code Stars)](https://github.com/isbrycee/GEM)
-
-<span style="color:red; font-weight:bold;">Jing Hao\*</span>, <span style="color:red; font-weight:bold;">Moyun Liu\*</span>, Kuo Feng Hung -->
-
-[BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping](
-https://www.sciencedirect.com/science/article/pii/S0262885623002093)
-
-**Image and Vision Computing, 2023**
-
-Yijie Zhu, Jingming Xie, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lei Yao, Youping Chen
-
-[Real-time vision-based system of fault detection for freight trains](
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911418)
-
-**IEEE Transactions on Instrumentation and Measurement, 2020**
-
-Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian Chen, Hongjie Zhang, Yanwen Guo
 
 <!-- # 👬 Competition
 <div class='paper-box'><div class='paper-box-image'><img src='images/certificate.jpg' alt="sym" width="70%"></div>
