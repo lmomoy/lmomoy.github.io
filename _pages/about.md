@@ -227,6 +227,13 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 📝 Other Publications 
+[GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting](
+https://rayyoh.github.io/GaussianCross/)
+
+**ACM MM, 2025**
+
+Lei Yao, Yi Wang, Yi Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
+
 
 [Multiple prior representation learning for self-supervised monocular depth estimation via hybrid transformer](
 https://www.sciencedirect.com/science/article/pii/S0952197624009485)
