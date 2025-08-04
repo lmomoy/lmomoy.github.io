@@ -46,7 +46,7 @@ My current research interest includes embodied AI, humanoid robotics, and multim
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - Now*, Ph.D. Student, School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
+- *2021.09 - 2025.06*, Ph.D., School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
 - *2023.05 - 2025.04*, Visiting Ph.D. Student, A*STAR Centre for Frontier AI Research (CFAR).
 - *2019.06 - 2021.06*, M.Eng., School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
 - *2015.09 - 2019.06*, B.Eng., School of Mechanical Engineering, Hubei University of Technology.
