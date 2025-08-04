@@ -26,7 +26,7 @@ My current research interest includes embodied AI, humanoid robotics, and multim
 
 
 # 🔥 News
-- *2025.08*: &nbsp; 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering has been accepted by **IEEE TPAMI**! Many thanks to [Dr. Li Liang](https://liliangnudt.github.io/). [Paper (soon)] [Code](https://github.com/liliangnudt/GProM)
+- *2025.08*: &nbsp; 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering" has been accepted by **IEEE TPAMI**! Many thanks to [Dr. Li Liang](https://liliangnudt.github.io/). [Paper (soon)] [Code](https://github.com/liliangnudt/GProM)
 - *2025.07*: &nbsp; 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" has been accepted by **ACM MM 2025**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [Paper (soon)] [Code](https://github.com/RayYoh/GaussianCross)
 - *2025.06*: &nbsp; 🚀 I joined the [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/index.htm), School of Mechanical Science and Engineering, HUST, as a Postdoctoral Researcher. I have started my research on humanoid robotics.
 - *2025.06*: &nbsp;🎓 I have successfully completed my Ph.D. at HUST! Grateful for the support from my advisors, colleagues, and everyone who accompanied me on this journey.
