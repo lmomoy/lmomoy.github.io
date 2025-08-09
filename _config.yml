@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Moyun Liu"
+title                    : "Moyun Liu (刘默耘)"
 description              : "Postdoctoral Researcher at HUST. "
 repository               : "https://github.com/lmomoy"
 google_scholar_stats_use_cdn : true

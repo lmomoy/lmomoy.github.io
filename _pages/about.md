@@ -27,7 +27,7 @@ My current research interest includes embodied AI, humanoid robotics, and multim
 
 # 🔥 News
 - *2025.08*: &nbsp; 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering" has been accepted by **IEEE TPAMI**! Many thanks to [Dr. Li Liang](https://liliangnudt.github.io/). [Paper (soon)] [Code](https://github.com/liliangnudt/GProM)
-- *2025.07*: &nbsp; 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" has been accepted by **ACM MM 2025**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [Paper (soon)] [Code](https://github.com/RayYoh/GaussianCross)
+- *2025.07*: &nbsp; 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" has been accepted by **ACM MM 2025**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [Paper](https://arxiv.org/abs/2508.02172) [Code](https://github.com/RayYoh/GaussianCross)
 - *2025.06*: &nbsp; 🚀 I joined the [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/index.htm), School of Mechanical Science and Engineering, HUST, as a Postdoctoral Researcher. I have started my research on humanoid robotics.
 - *2025.06*: &nbsp;🎓 I have successfully completed my Ph.D. at HUST! Grateful for the support from my advisors, colleagues, and everyone who accompanied me on this journey.
 - *2025.05*: &nbsp;🏆 Our <i><a href="https://github.com/RayYoh/LaSSM">LaSSM</a></i> and <i><a href="https://rayyoh.github.io/SGIFormer/">SGIFormer</a></i> obtain <strong>first</strong> and <strong>second</strong> places on <a href="https://kaldir.vc.in.tum.de/scannetpp/benchmark/insseg">CVPR 2025 ScanNet++ Challenge</a>, respectively. Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/).
@@ -236,7 +236,7 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
     Liang Li, Yuangang Pan, Yinghua Yao, Junpu Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Xinwang Liu, Kenli Li, Keqin Li
   </li>
   <li style="margin-bottom: 12px;">
-    <a href="https://rayyoh.github.io/GaussianCross/"><strong>GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting</strong></a><br>
+    <a href="https://arxiv.org/abs/2508.02172"><strong>GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting</strong></a><br>
     <em>ACM MM, 2025</em>
     &nbsp;|&nbsp; <a href="https://github.com/RayYoh/GaussianCross"><img src="https://img.shields.io/github/stars/RayYoh/GaussianCross?style=social&label=Code Stars" alt="Code Stars"></a><br>
     Lei Yao, Yi Wang, Yi Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
