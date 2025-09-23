@@ -233,7 +233,7 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
   <li style="margin-bottom: 12px;">
     <a href="https://arxiv.org/pdf/2404.01065"><strong>T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation</strong></a><br>
     <em>IEEE TMM, 2025</em>
-    &nbsp;|&nbsp; <a href="https://github.com/isbrycee/T-Mamba"><img src="https://github.com/isbrycee/T-Mamba?style=social&label=Code Stars" alt="Code Stars"></a><br>
+    &nbsp;|&nbsp; <a href="https://github.com/isbrycee/T-Mamba"><img src="https://img.shields.io/github/stars/isbrycee/T-Mamba?style=social&label=Code Stars" alt="Code Stars"></a><br>
     Jing Hao, Yonghui Zhu, Lei He, <span style="color:red; font-weight:bold;">Moyun Liu</span>, James Kit Hon Tsoi, Kuo Feng Hung
   </li>
   <li style="margin-bottom: 12px;">
