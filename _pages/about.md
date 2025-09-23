@@ -26,20 +26,21 @@ My current research interest includes embodied AI, humanoid robotics, and multim
 
 
 # 🔥 News
-- *2025.08*: &nbsp; 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering" has been accepted by **IEEE TPAMI**! Many thanks to [Dr. Li Liang](https://liliangnudt.github.io/). [Paper (soon)] [Code](https://github.com/liliangnudt/GProM)
-- *2025.07*: &nbsp; 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" has been accepted by **ACM MM 2025**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [Paper](https://arxiv.org/abs/2508.02172) [Code](https://github.com/RayYoh/GaussianCross)
+- *2025.09*: &nbsp; 🎉 Our work "T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation" has been accepted by **IEEE TMM**! Many thanks to Many thanks to [Mr. Jing HAO](https://isbrycee.github.io/). [[Paper]](https://arxiv.org/pdf/2404.01065) [[Code]](https://github.com/isbrycee/T-Mamba)
+- *2025.08*: &nbsp; 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering" has been accepted by **IEEE TPAMI**! Many thanks to [Dr. Li Liang](https://liliangnudt.github.io/). [[Paper]](https://ieeexplore.ieee.org/document/11119324) [[Code]](https://github.com/liliangnudt/GProM)
+- *2025.07*: &nbsp; 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" has been accepted by **ACM MM 2025**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [[Paper]](https://arxiv.org/abs/2508.02172) [[Code]](https://github.com/RayYoh/GaussianCross)
 - *2025.06*: &nbsp; 🚀 I joined the [State Key Laboratory of Intelligent Manufacturing Equipment and Technology](https://dmet.hust.edu.cn/index.htm), School of Mechanical Science and Engineering, HUST, as a Postdoctoral Researcher. I have started my research on humanoid robotics.
 - *2025.06*: &nbsp;🎓 I have successfully completed my Ph.D. at HUST! Grateful for the support from my advisors, colleagues, and everyone who accompanied me on this journey.
 - *2025.05*: &nbsp;🏆 Our <i><a href="https://github.com/RayYoh/LaSSM">LaSSM</a></i> and <i><a href="https://rayyoh.github.io/SGIFormer/">SGIFormer</a></i> obtain <strong>first</strong> and <strong>second</strong> places on <a href="https://kaldir.vc.in.tum.de/scannetpp/benchmark/insseg">CVPR 2025 ScanNet++ Challenge</a>, respectively. Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/).
 - *2025.04*: &nbsp;🙏 My visit at A*STAR has come to an end. I’m grateful to everyone I encountered!
-- *2025.04*: &nbsp;🎉 Our work "MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even" has been accepted by **Information Fusion** ! [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520) [Code](https://github.com/lmomoy/MAENet)
-- *2025.03*: &nbsp;🏆 Our previous paper "LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image" has been selected as an **ESI Highly Cited Paper** ! [Paper](https://ieeexplore.ieee.org/abstract/document/10054502) [Code](https://github.com/lmomoy/LF-YOLO)
+- *2025.04*: &nbsp;🎉 Our work "MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even" has been accepted by **Information Fusion** ! [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253525002520) [[Code]](https://github.com/lmomoy/MAENet)
+- *2025.03*: &nbsp;🏆 Our previous paper "LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image" has been selected as an **ESI Highly Cited Paper** ! [[Paper]](https://ieeexplore.ieee.org/abstract/document/10054502) [[Code]](https://github.com/lmomoy/LF-YOLO)
 - *2024.11*: &nbsp;💰 I Won the National Scholarship for PhD Student !
-- *2024.11*: &nbsp;🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" has been accepted by **IEEE TCSVT** ! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [Paper](https://arxiv.org/pdf/2407.11564) [Code](https://github.com/RayYoh/SGIFormer)
-- *2024.10*: &nbsp;🎉 Our work "GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models" has been accepted by **IEEE TMM** ! [Paper](https://arxiv.org/pdf/2307.12018) [Code](https://github.com/isbrycee/GEM)
+- *2024.11*: &nbsp;🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" has been accepted by **IEEE TCSVT** ! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [[Paper]](https://arxiv.org/pdf/2407.11564) [[Code]](https://github.com/RayYoh/SGIFormer)
+- *2024.10*: &nbsp;🎉 Our work "GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models" has been accepted by **IEEE TMM** ! [[Paper]](https://arxiv.org/pdf/2307.12018) [[Code]](https://github.com/isbrycee/GEM)
 - *2024.10*: &nbsp;🏆 We got 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICCAI2024** ! Many thanks to [Mr. Jing HAO](https://isbrycee.github.io/).
-- *2024.05*: &nbsp;🎉 Our work "Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain" has been accepted by **IEEE TIV** ! [Paper](https://ieeexplore.ieee.org/document/10517614)
-- *2024.04*: &nbsp;🎉 Our work "MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving" has been accepted by **IEEE TITS** ! [Paper](https://ieeexplore.ieee.org/document/10510171)
+- *2024.05*: &nbsp;🎉 Our work "Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain" has been accepted by **IEEE TIV** ! [[Paper]](https://ieeexplore.ieee.org/document/10517614)
+- *2024.04*: &nbsp;🎉 Our work "MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving" has been accepted by **IEEE TITS** ! [[Paper]](https://ieeexplore.ieee.org/document/10510171)
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -230,9 +231,15 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
 # 📝 Other Publications 
 <ul style="list-style-type: none; padding-left: 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 1.4;">
   <li style="margin-bottom: 12px;">
-    <a href="https://github.com/liliangnudt/GProM"><strong>Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering</strong></a><br>
+    <a href="https://arxiv.org/pdf/2404.01065"><strong>T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation</strong></a><br>
+    <em>IEEE TMM, 2025</em>
+    &nbsp;|&nbsp; <a href="https://github.com/isbrycee/T-Mamba"><img src="https://github.com/isbrycee/T-Mamba?style=social&label=Code Stars" alt="Code Stars"></a><br>
+    Jing Hao, Yonghui Zhu, Lei He, <span style="color:red; font-weight:bold;">Moyun Liu</span>, James Kit Hon Tsoi, Kuo Feng Hung
+  </li>
+  <li style="margin-bottom: 12px;">
+    <a href="https://ieeexplore.ieee.org/document/11119324"><strong>Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering</strong></a><br>
     <em>IEEE TPAMI, 2025</em>
-    &nbsp;|&nbsp; <a href="https://github.com/RayYoh/GaussianCross"><img src="https://img.shields.io/github/stars/liliangnudt/GProM?style=social&label=Code Stars" alt="Code Stars"></a><br>
+    &nbsp;|&nbsp; <a href="https://github.com/liliangnudt/GProM"><img src="https://img.shields.io/github/stars/liliangnudt/GProM?style=social&label=Code Stars" alt="Code Stars"></a><br>
     Liang Li, Yuangang Pan, Yinghua Yao, Junpu Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Xinwang Liu, Kenli Li, Keqin Li
   </li>
   <li style="margin-bottom: 12px;">
