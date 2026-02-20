@@ -26,6 +26,7 @@ My current research interest includes embodied AI, humanoid robotics, and multim
 
 
 # 🔥 News
+- *2026.02*: &nbsp; 🎉 Our work "LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation" has been accepted by **IEEE TCSVT**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [[Paper]](https://arxiv.org/pdf/2602.11007) [[Code]](https://github.com/RayYoh/LaSSM)
 - *2025.09*: &nbsp; 🎉 Our work "T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation" has been accepted by **IEEE TMM**! Many thanks to [Mr. Jing HAO](https://isbrycee.github.io/). [[Paper]](https://arxiv.org/pdf/2404.01065) [[Code]](https://github.com/isbrycee/T-Mamba)
 - *2025.08*: &nbsp; 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering" has been accepted by **IEEE TPAMI**! Many thanks to [Dr. Li Liang](https://liliangnudt.github.io/). [[Paper]](https://ieeexplore.ieee.org/document/11119324) [[Code]](https://github.com/liliangnudt/GProM)
 - *2025.07*: &nbsp; 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" has been accepted by **ACM MM 2025**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [[Paper]](https://arxiv.org/abs/2508.02172) [[Code]](https://github.com/RayYoh/GaussianCross)
@@ -230,6 +231,12 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
 
 # 📝 Other Publications 
 <ul style="list-style-type: none; padding-left: 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 1.4;">
+  <li style="margin-bottom: 12px;">
+    <a href="https://arxiv.org/pdf/2602.11007"><strong>LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation</strong></a><br>
+    <em>IEEE TCSVT, 2026</em>
+    &nbsp;|&nbsp; <a href="https://github.com/RayYoh/LaSSM"><img src="https://img.shields.io/github/stars/RayYoh/LaSSM?style=social&label=Code Stars" alt="Code Stars"></a><br>
+    Lei Yao, Yi Wang, Yawen Cui, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Lap-Pui Chau
+  </li>
   <li style="margin-bottom: 12px;">
     <a href="https://arxiv.org/pdf/2404.01065"><strong>T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation</strong></a><br>
     <em>IEEE TMM, 2025</em>
