@@ -26,6 +26,7 @@ My current research interest includes embodied AI, humanoid robotics, and multim
 
 
 # 🔥 News
+- *2026.03*: &nbsp; 🎉 Our work "Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains" has been accepted by **IEEE TITS**! Many thanks to [Assoc. Prof. Yang Zhang](https://yangzhangcst.github.io/Homepage/). [[Paper]](https://arxiv.org/pdf/2603.12624v1) [[Code]](https://github.com/MVME-HBUT/SAM_FTI-FDet)
 - *2026.02*: &nbsp; 🎉 Our work "HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding" has been accepted by **CVPR 2026**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [[Paper]](https://rayyoh.github.io/Hammer/) [[Code]](https://github.com/RayYoh/Hammer)
 - *2026.02*: &nbsp; 🎉 Our work "LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation" has been accepted by **IEEE TCSVT**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [[Paper]](https://arxiv.org/pdf/2602.11007) [[Code]](https://github.com/RayYoh/LaSSM)
 - *2025.09*: &nbsp; 🎉 Our work "T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation" has been accepted by **IEEE TMM**! Many thanks to [Mr. Jing HAO](https://isbrycee.github.io/). [[Paper]](https://arxiv.org/pdf/2404.01065) [[Code]](https://github.com/isbrycee/T-Mamba)
@@ -232,6 +233,12 @@ Yang Zhang, <span style="color:red; font-weight:bold;">Moyun Liu</span>, Yunian 
 
 # 📝 Other Publications 
 <ul style="list-style-type: none; padding-left: 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 1.4;">
+  <li style="margin-bottom: 12px;">
+    <a href="https://arxiv.org/pdf/2603.12624v1"><strong>Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains</strong></a><br>
+    <em>IEEE TITS, 2026</em>
+    &nbsp;|&nbsp; <a href="https://github.com/MVME-HBUT/SAM_FTI-FDet"><img src="https://img.shields.io/github/stars/MVME-HBUT/SAM_FTI-FDet?style=social&label=Code Stars" alt="Code Stars"></a><br>
+    Guodong Sun, Qihang Liang, Xingyu Pan, <span style="color:red; font-weight:bold;">Moyun Liu</span> and Yang Zhang
+  </li>
   <li style="margin-bottom: 12px;">
     <a href="https://rayyoh.github.io/Hammer/"><strong>HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding</strong></a><br>
     <em>CVPR, 2026</em>
