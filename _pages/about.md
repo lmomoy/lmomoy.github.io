@@ -325,8 +325,6 @@ IEEE Transactions on Industrial Informatics
 
 IEEE Transactions on Automation Science and Engineering
 
-IEEE Transactions on Artificial Intelligence
-
 IEEE Sensors Journal
 
 Information Fusion
@@ -342,6 +340,8 @@ Engineering Applications of Artificial Intelligence
 Expert Systems With Applications 
 
 International Conference on Learning Representations (ICLR)
+
+International Conference on Intelligent Robots and Systems (IROS) 
 
 ACM Multimedia (ACM MM)
 
