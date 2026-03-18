@@ -320,13 +320,13 @@ The 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICC
 - IEEE Transactions on Industrial Informatics (T-II)
 - IEEE Transactions on Automation Science and Engineering (T-ASE)
 - IEEE Sensors Journal
+- International Journal of Computer Vision
 - Information Fusion
 - Pattern Recognition
 - Computers in Industry
 - Knowledge-Based Systems
 - Engineering Applications of Artificial Intelligence
 - Expert Systems With Applications
-- International Journal of Computer Vision (IJCV)
 
 ## Reviewer for Conferences
 - International Conference on Learning Representations (ICLR)
