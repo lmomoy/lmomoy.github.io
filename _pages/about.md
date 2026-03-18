@@ -313,41 +313,24 @@ The 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICC
 
 # 👨‍🎓 Academic Service
 
- - **Reviewer**
+## 📘 Journals
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Intelligent Vehicles
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Automation Science and Engineering
+- IEEE Sensors Journal
+- International Journal of Computer Vision
+- Information Fusion
+- Pattern Recognition
+- Computers in Industry
+- Knowledge-Based Systems
+- Engineering Applications of Artificial Intelligence
+- Expert Systems With Applications
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence
-
-IEEE Transactions on Intelligent Transportation Systems
-
-IEEE Transactions on Intelligent Vehicles
-
-IEEE Transactions on Industrial Informatics
-
-IEEE Transactions on Automation Science and Engineering
-
-IEEE Sensors Journal
-
-Information Fusion
-
-Pattern Recognition
-
-Computers in Industry
-
-Knowledge-Based Systems
-
-Engineering Applications of Artificial Intelligence
-
-Expert Systems With Applications 
-
-International Conference on Learning Representations (ICLR)
-
-International Conference on Intelligent Robots and Systems (IROS) 
-
-ACM Multimedia (ACM MM)
-
-- **Conference Service**
-
-Program Committees of 2023 the 1st International Conference on AI-generated Content (AIGC2023)
-
+## 📕 Conferences
+- International Conference on Learning Representations (ICLR)
+- International Conference on Intelligent Robots and Systems (IROS)
+- ACM Multimedia (ACM MM)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
