@@ -314,7 +314,7 @@ The 6th place in ToothFairy2 : Semi-supervised Teeth Segmentation hold on **MICC
 # 👨‍🎓 Academic Service
 
 ## Reviewer for Journals
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
 - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 - IEEE Transactions on Intelligent Vehicles (T-IV)
 - IEEE Transactions on Industrial Informatics (T-II)
