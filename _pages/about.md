@@ -26,6 +26,7 @@ My current research interest includes embodied AI, humanoid robotics, and multim
 
 
 # 🔥 News
+- *2026.05*: &nbsp; 🎉 Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" is posted online! Paper! Many thanks to [Dr. Xin Zhang](https://zhangxin-xd.github.io/). [[Paper]](https://arxiv.org/pdf/2605.02735)
 - *2026.03*: &nbsp; 🎉 Our work "Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains" has been accepted by **IEEE TITS**! Many thanks to [Assoc. Prof. Yang Zhang](https://yangzhangcst.github.io/Homepage/). [[Paper]](https://arxiv.org/pdf/2603.12624v1) [[Code]](https://github.com/MVME-HBUT/SAM_FTI-FDet)
 - *2026.02*: &nbsp; 🎉 Our work "HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding" has been accepted by **CVPR 2026**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [[Paper]](https://rayyoh.github.io/Hammer/) [[Code]](https://github.com/RayYoh/Hammer)
 - *2026.02*: &nbsp; 🎉 Our work "LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation" has been accepted by **IEEE TCSVT**! Many thanks to [Mr. Ray Lei Yao](https://rayyoh.github.io/). [[Paper]](https://arxiv.org/pdf/2602.11007) [[Code]](https://github.com/RayYoh/LaSSM)
