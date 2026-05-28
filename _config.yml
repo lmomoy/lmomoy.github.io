@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Moyun Liu (刘默耘)"
-description              : "Postdoctoral Researcher at HUST. "
-repository               : "https://github.com/lmomoy"
+description              : "Postdoctoral Researcher in embodied AI, humanoid robotics, and multimodal perception."
+repository               : "lmomoy/lmomoy.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Moyun Liu (刘默耘)"
   avatar           : "images/LMY-Astar.jpg"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : "Postdoctoral Researcher at Huazhong University of Science and Technology"
   location         : "Wuhan, China"
-  employer         :
+  employer         : "Huazhong University of Science and Technology"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5gWDxqAAAAAJ&hl=en"
-  email            : "lmomoy@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Moyun-Liu"
+  googlescholar    : # "https://scholar.google.com/citations?user=5gWDxqAAAAAJ&hl=en"
+  email            : # "lmomoy@hust.edu.cn"
+  researchgate     : # "https://www.researchgate.net/profile/Moyun-Liu"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lmomoy"
+  github           : # "lmomoy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-4530-2606"
+  orcid            : # "https://orcid.org/0000-0002-4530-2606"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
