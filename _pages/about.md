@@ -337,8 +337,8 @@ We show how vision foundation models can be injected into a simple segmentation 
 
 ## Reviewer for Conferences
 
-- International Conference on Learning Representations
-- International Conference on Intelligent Robots and Systems
-- ACM Multimedia
+- International Conference on Learning Representations (ICLR)
+- International Conference on Intelligent Robots and Systems (IROS)
+- ACM Multimedia (ACM MM)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
