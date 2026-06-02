@@ -341,4 +341,4 @@ We show how vision foundation models can be injected into a simple segmentation 
 - International Conference on Intelligent Robots and Systems (IROS)
 - ACM Multimedia (ACM MM)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MKhq-MDMgQxNDHu8YnPs8PNpb0-ncVUuUEs5f2EPf0&cl=ffffff&w=a"></script>
