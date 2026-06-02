@@ -343,8 +343,9 @@ We show how vision foundation models can be injected into a simple segmentation 
 - ACM Multimedia (ACM MM)
 
 <div class="visitor-map">
-  <img
-    src="//clustrmaps.com/map_v2.png?cl=ffffff&w=180&t=tt&d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"
-    alt="Visitor map"
-    loading="lazy">
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?cl=ffffff&w=180&t=tt&d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw">
+  </script>
 </div>

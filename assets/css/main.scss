@@ -458,12 +458,8 @@ body {
     justify-content: center;
     margin: 2rem auto 0;
     max-width: 180px;
-    
-    img {
-        display: block;
-        width: 180px;
-        height: auto;
-    }
+    min-height: 120px;
+    overflow: hidden;
 }
 
 $scroll_offset : 2em;
