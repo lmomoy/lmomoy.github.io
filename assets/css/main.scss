@@ -453,6 +453,20 @@ body {
     }
 }
 
+.visitor-map {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto 0;
+    max-width: 360px;
+
+    #mapmyvisitors {
+        display: block;
+        width: 100%;
+        transform: scale(0.9);
+        transform-origin: top center;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

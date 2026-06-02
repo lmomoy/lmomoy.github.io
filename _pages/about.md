@@ -332,6 +332,7 @@ We show how vision foundation models can be injected into a simple segmentation 
 - Pattern Recognition
 - Computers in Industry
 - Knowledge-Based Systems
+- Neurocomputing
 - Engineering Applications of Artificial Intelligence
 - Expert Systems With Applications
 
@@ -341,4 +342,6 @@ We show how vision foundation models can be injected into a simple segmentation 
 - International Conference on Intelligent Robots and Systems (IROS)
 - ACM Multimedia (ACM MM)
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MKhq-MDMgQxNDHu8YnPs8PNpb0-ncVUuUEs5f2EPf0&cl=ffffff&w=a"></script>
+<div class="visitor-map">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MKhq-MDMgQxNDHu8YnPs8PNpb0-ncVUuUEs5f2EPf0&cl=ffffff&w=a"></script>
+</div>
