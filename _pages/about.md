@@ -343,49 +343,8 @@ We show how vision foundation models can be injected into a simple segmentation 
 - ACM Multimedia (ACM MM)
 
 <div class="visitor-map">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8MKhq-MDMgQxNDHu8YnPs8PNpb0-ncVUuUEs5f2EPf0&cl=ffffff&w=a"></script>
+  <img
+    src="//clustrmaps.com/map_v2.png?cl=ffffff&w=180&t=tt&d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"
+    alt="Visitor map"
+    loading="lazy">
 </div>
-<script>
-  (function () {
-    var scale = 0.3333;
-    var width = 960;
-    var height = 540;
-
-    function shrinkVisitorMap() {
-      var host = document.querySelector(".visitor-map");
-      if (!host) return;
-
-      var target = host.querySelector("iframe, .clustrmaps-map-container, .clustrmaps-map, canvas, img");
-      if (!target) {
-        target = document.querySelector("iframe[src*='clustrmaps'], iframe[src*='mapmyvisitors'], .clustrmaps-map-container, .clustrmaps-map");
-      }
-      if (!target) return;
-
-      if (target.parentNode !== host) {
-        host.appendChild(target);
-      }
-
-      host.style.position = "relative";
-      host.style.width = width * scale + "px";
-      host.style.height = height * scale + "px";
-      host.style.overflow = "hidden";
-      host.style.margin = "2rem auto 0";
-
-      target.style.position = "absolute";
-      target.style.top = "0";
-      target.style.left = "0";
-      target.style.width = width + "px";
-      target.style.height = height + "px";
-      target.style.maxWidth = "none";
-      target.style.transform = "scale(" + scale + ")";
-      target.style.transformOrigin = "top left";
-    }
-
-    window.addEventListener("load", function () {
-      shrinkVisitorMap();
-      window.setTimeout(shrinkVisitorMap, 500);
-      window.setTimeout(shrinkVisitorMap, 1500);
-      window.setTimeout(shrinkVisitorMap, 3000);
-    });
-  })();
-</script>
