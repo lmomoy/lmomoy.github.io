@@ -320,14 +320,14 @@ We show how vision foundation models can be injected into a simple segmentation 
 
 ## Reviewer for Journals
 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence
-- IEEE Transactions on Intelligent Transportation Systems
-- IEEE Transactions on Intelligent Vehicles
-- IEEE Transactions on Industrial Informatics
-- IEEE Transactions on Circuits and Systems for Video Technology
-- IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI)
+- IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)
+- IEEE Transactions on Intelligent Vehicles (IEEE T-IV)
+- IEEE Transactions on Industrial Informatics (IEEE T-II)
+- IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
+- IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
 - IEEE Sensors Journal
-- International Journal of Computer Vision
+- International Journal of Computer Vision (IJCV)
 - Information Fusion
 - Pattern Recognition
 - Computers in Industry

@@ -454,26 +454,12 @@ body {
 }
 
 .visitor-map {
-    position: relative;
+    display: flex;
+    justify-content: center;
     margin: 2rem auto 0;
-    width: 320px;
-    height: 180px;
+    max-width: 180px;
+    min-height: 120px;
     overflow: hidden;
-
-    > script,
-    > iframe,
-    > div,
-    > img,
-    > canvas,
-    > script + * {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 300% !important;
-        max-width: none !important;
-        transform: scale(0.3333);
-        transform-origin: top left;
-    }
 }
 
 $scroll_offset : 2em;
