@@ -456,14 +456,23 @@ body {
 .visitor-map {
     display: flex;
     justify-content: center;
+    align-items: flex-start;
     margin: 2rem auto 0;
-    max-width: 360px;
+    width: 100%;
+    overflow: visible;
 
-    #mapmyvisitors {
+    > * {
         display: block;
-        width: 100%;
-        transform: scale(0.9);
+        margin: 0 auto;
+        transform: scale(0.68);
         transform-origin: top center;
+    }
+
+    iframe,
+    canvas,
+    img,
+    div {
+        max-width: 280px !important;
     }
 }
 
