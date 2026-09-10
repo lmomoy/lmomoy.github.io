@@ -65,6 +65,7 @@ My current research interests include embodied AI, humanoid robotics, multimodal
 
 <div class="news-list">
   <ul>
+    <li><code>2026.09</code> I am organizing the Frontiers in Robotics and AI Research Topic <a href="https://www.frontiersin.org/research-topics/85292/">"Vision-Language-Action Models and World Models for Robotic Manipulation"</a>.</li>
     <li><code>2026.05</code> 🎉 Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" is available online with <a href="https://zhangxin-xd.github.io/">Dr. Xin Zhang</a>. <a href="https://arxiv.org/pdf/2605.02735">Paper</a></li>
     <li><code>2026.03</code> 🎉 Our work "Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains" was accepted by <strong>IEEE TITS</strong>. <a href="https://arxiv.org/pdf/2603.12624v1">Paper</a> <a href="https://github.com/MVME-HBUT/SAM_FTI-FDet">Code</a></li>
     <li><code>2026.02</code> 🎉 Our work "HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding" was accepted by <strong>CVPR 2026</strong>. <a href="https://rayyoh.github.io/Hammer/">Project</a> <a href="https://github.com/RayYoh/Hammer">Code</a></li>
@@ -317,6 +318,10 @@ We show how vision foundation models can be injected into a simple segmentation 
 </details>
 
 # Academic Service
+
+## Editorial Service
+
+- **Guest Associate Editor**, Frontiers in Robotics and AI, Research Topic: [Vision-Language-Action Models and World Models for Robotic Manipulation](https://www.frontiersin.org/research-topics/85292/)
 
 ## Reviewer for Journals
 
