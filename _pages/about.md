@@ -65,8 +65,8 @@ My current research interests include embodied AI, humanoid robotics, multimodal
 
 <div class="news-list">
   <ul>
+    <li><code>2026.09</code> Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" was accepted by <strong>NeurIPS 2026</strong>. Many thanks to <a href="https://zhangxin-xd.github.io/">Dr. Xin Zhang</a>. <a href="https://arxiv.org/pdf/2605.02735">Paper</a></li>
     <li><code>2026.09</code> I am organizing the Frontiers in Robotics and AI Research Topic <a href="https://www.frontiersin.org/research-topics/85292/">"Vision-Language-Action Models and World Models for Robotic Manipulation"</a>.</li>
-    <li><code>2026.05</code> 🎉 Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" is available online with <a href="https://zhangxin-xd.github.io/">Dr. Xin Zhang</a>. <a href="https://arxiv.org/pdf/2605.02735">Paper</a></li>
     <li><code>2026.03</code> 🎉 Our work "Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains" was accepted by <strong>IEEE TITS</strong>. <a href="https://arxiv.org/pdf/2603.12624v1">Paper</a> <a href="https://github.com/MVME-HBUT/SAM_FTI-FDet">Code</a></li>
     <li><code>2026.02</code> 🎉 Our work "HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding" was accepted by <strong>CVPR 2026</strong>. <a href="https://rayyoh.github.io/Hammer/">Project</a> <a href="https://github.com/RayYoh/Hammer">Code</a></li>
     <li><code>2026.02</code> 🎉 Our work "LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation" was accepted by <strong>IEEE TCSVT</strong>. <a href="https://arxiv.org/pdf/2602.11007">Paper</a> <a href="https://github.com/RayYoh/LaSSM">Code</a></li>
