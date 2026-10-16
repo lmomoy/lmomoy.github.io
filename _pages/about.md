@@ -35,14 +35,20 @@ redirect_from:
       <strong>Current Base</strong>
       <span>State Key Laboratory of Intelligent Manufacturing Equipment and Technology, HUST</span>
     </div>
+    <a class="hero__stat hero__stat--link" href="#news">
+      <strong>Open Calls</strong>
+      <span>Two special issues on embodied AI and robotic manipulation</span>
+    </a>
   </div>
 </section>
 
+<div class="intro-copy" markdown="1">
 I am currently a Postdoctoral Researcher in the School of Mechanical Science and Engineering at Huazhong University of Science and Technology (HUST), working with [Prof. Han Ding](https://en-mse.hust.edu.cn/info/1073/1993.htm) (Academician of the Chinese Academy of Sciences), [Prof. Bo Tao](https://en-mse.hust.edu.cn/info/1089/2064.htm) (Changjiang Distinguished Professor), and [Prof. Xingwei Zhao](https://en-mse.hust.edu.cn/info/1121/2386.htm) (Recipient of the National Science Fund for Excellent Young Scholars).
 
 I received both my M.S. and Ph.D. degrees in Mechanical Science and Engineering from HUST in 2021 and 2025, advised by [Prof. Youping Chen](https://baike.baidu.com/item/%E9%99%88%E5%B9%BC%E5%B9%B3/57397) and [Prof. Jingming Xie](https://mse.hust.edu.cn/info/1145/1415.htm). From 2023 to 2025, I was a visiting student at the A*STAR Centre for Frontier AI Research (CFAR), Singapore, where I worked with [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=zh-CN&oi=ao).
 
 My current research interests include embodied AI, humanoid robotics, multimodal fusion, and 3D scene understanding.
+</div>
 
 # Research Focus
 
@@ -63,20 +69,35 @@ My current research interests include embodied AI, humanoid robotics, multimodal
 
 # News
 
-<div class="news-list">
+<p class="section-lede">Recent publications, research milestones, and open calls, presented together in one scrollable timeline.</p>
+
+<div class="news-list scroll-panel scroll-panel--news">
   <ul>
+    <li class="news-list__featured">
+      <code>2026.10</code>
+      <div>
+        <span class="news-label">Open Call</span>
+        I am organizing the <strong>Electronics (MDPI)</strong> Special Issue
+        <a href="https://www.mdpi.com/journal/electronics/special_issues/9DD0XQUKO7">“Embodied AI: Vision–Language–Action Models, World Models and Beyond”</a>.
+        Submissions are open until <strong>June 15, 2027</strong>.
+        <a class="news-cta" href="https://www.mdpi.com/journal/electronics/special_issues/9DD0XQUKO7">View Special Issue <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="news-list__featured">
+      <code>2026.09</code>
+      <div>
+        <span class="news-label">Open Call</span>
+        I am organizing the <strong>Frontiers in Robotics and AI</strong> Research Topic
+        <a href="https://www.frontiersin.org/research-topics/85292/vision-language-action-models-and-world-models-for-robotic-manipulation">“Vision-Language-Action Models and World Models for Robotic Manipulation”</a>.
+        Submissions are open until <strong>March 29, 2027</strong>.
+        <a class="news-cta" href="https://www.frontiersin.org/research-topics/85292/vision-language-action-models-and-world-models-for-robotic-manipulation">View Research Topic <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
     <li><code>2026.09</code> Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" was accepted by <strong>NeurIPS 2026</strong>. Many thanks to <a href="https://zhangxin-xd.github.io/">Dr. Xin Zhang</a>. <a href="https://arxiv.org/pdf/2605.02735">Paper</a></li>
-    <li><code>2026.09</code> I am organizing the Frontiers in Robotics and AI Research Topic <a href="https://www.frontiersin.org/research-topics/85292/">"Vision-Language-Action Models and World Models for Robotic Manipulation"</a>.</li>
     <li><code>2026.03</code> 🎉 Our work "Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains" was accepted by <strong>IEEE TITS</strong>. <a href="https://arxiv.org/pdf/2603.12624v1">Paper</a> <a href="https://github.com/MVME-HBUT/SAM_FTI-FDet">Code</a></li>
     <li><code>2026.02</code> 🎉 Our work "HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding" was accepted by <strong>CVPR 2026</strong>. <a href="https://rayyoh.github.io/Hammer/">Project</a> <a href="https://github.com/RayYoh/Hammer">Code</a></li>
     <li><code>2026.02</code> 🎉 Our work "LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation" was accepted by <strong>IEEE TCSVT</strong>. <a href="https://arxiv.org/pdf/2602.11007">Paper</a> <a href="https://github.com/RayYoh/LaSSM">Code</a></li>
     <li><code>2025.09</code> 🎉 Our work "T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation" was accepted by <strong>IEEE TMM</strong>. <a href="https://arxiv.org/pdf/2404.01065">Paper</a> <a href="https://github.com/isbrycee/T-Mamba">Code</a></li>
-  </ul>
-</div>
-
-<details class="news-archive">
-  <summary>More updates</summary>
-  <ul>
     <li><code>2025.08</code> 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering" was accepted by <strong>IEEE TPAMI</strong>. <a href="https://ieeexplore.ieee.org/document/11119324">Paper</a> <a href="https://github.com/liliangnudt/GProM">Code</a></li>
     <li><code>2025.07</code> 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" was accepted by <strong>ACM MM 2025</strong>. <a href="https://arxiv.org/abs/2508.02172">Paper</a> <a href="https://github.com/RayYoh/GaussianCross">Code</a></li>
     <li><code>2025.06</code> 🧑‍🔬 I joined the <a href="https://dmet.hust.edu.cn/index.htm">State Key Laboratory of Intelligent Manufacturing Equipment and Technology</a>, HUST, as a Postdoctoral Researcher.</li>
@@ -87,11 +108,13 @@ My current research interests include embodied AI, humanoid robotics, multimodal
     <li><code>2024.11</code> 🏅 I received the National Scholarship for Ph.D. Students.</li>
     <li><code>2024.11</code> 🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" was accepted by <strong>IEEE TCSVT</strong>. <a href="https://arxiv.org/pdf/2407.11564">Paper</a> <a href="https://github.com/RayYoh/SGIFormer">Code</a></li>
   </ul>
-</details>
+</div>
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/MAEnet.png' alt="MAENet preview" width="100%"></div>
+<p class="section-lede">A selection of representative work across multimodal perception, 3D understanding, and efficient vision systems.</p>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/MAEnet.png' alt="MAENet preview" width="100%" loading="lazy" decoding="async"></div>
 <div class='paper-box-text' markdown="1">
 
 [MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even](https://www.sciencedirect.com/science/article/pii/S1566253525002520)
@@ -109,7 +132,7 @@ We propose a point cloud completion method that improves both geometric accuracy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/BUNet.png' alt="BUNet preview" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/BUNet.png' alt="BUNet preview" width="100%" loading="lazy" decoding="async"></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Better Unguided Depth Completion via Cross-Modality Knowledge Distillation in the Frequency Domain](https://ieeexplore.ieee.org/document/10517614)
@@ -126,7 +149,7 @@ We revisit the role of camera guidance in depth completion and design a stronger
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/MENet.png' alt="MENet preview" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/MENet.png' alt="MENet preview" width="100%" loading="lazy" decoding="async"></div>
 <div class='paper-box-text' markdown="1">
 
 [MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving](https://ieeexplore.ieee.org/document/10510171)
@@ -143,7 +166,7 @@ We propose a multi-modal mapping enhancement network that improves 3D object det
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/CHNet.png' alt="CHNet preview" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/CHNet.png' alt="CHNet preview" width="100%" loading="lazy" decoding="async"></div>
 <div class='paper-box-text' markdown="1">
 
 [A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S0950705124005112)
@@ -161,7 +184,7 @@ We design a lightweight depth completion network that preserves strong image gui
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="LF-YOLO preview" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/LF-YOLO.jpg' alt="LF-YOLO preview" width="100%" loading="lazy" decoding="async"></div>
 <div class='paper-box-text' markdown="1">
 
 [LF-YOLO: A Lighter and Faster YOLO for Weld Defect Detection of X-ray Image](https://arxiv.org/pdf/2110.15045.pdf)
@@ -181,7 +204,7 @@ We propose an efficient defect detection framework for weld X-ray images with st
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/GEM.png' alt="GEM preview" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/GEM.png' alt="GEM preview" width="100%" loading="lazy" decoding="async"></div>
 <div class='paper-box-text' markdown="1">
 
 [GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models](https://arxiv.org/pdf/2307.12018)
@@ -253,7 +276,9 @@ We show how vision foundation models can be injected into a simple segmentation 
 
 # Other Publications
 
-<div class="compact-publications">
+<p class="section-lede">Additional publications are collected in one compact, scrollable list.</p>
+
+<div class="compact-publications scroll-panel scroll-panel--publications">
   <div class="compact-publication">
     <a href="https://arxiv.org/pdf/2603.12624v1"><strong>Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains</strong></a>
     <span>IEEE TITS, 2026</span>
@@ -279,73 +304,82 @@ We show how vision foundation models can be injected into a simple segmentation 
     <span>IEEE TPAMI, 2025</span>
     <p>Liang Li, Yuangang Pan, Yinghua Yao, Junpu Zhang, <span class="paper-box-highlight">Moyun Liu</span>, Xinwang Liu, Kenli Li, Keqin Li</p>
   </div>
-</div>
-
-<details class="news-archive">
-  <summary>Show more publications</summary>
-  <div class="compact-publications">
-    <div class="compact-publication">
+  <div class="compact-publication">
       <a href="https://arxiv.org/abs/2508.02172"><strong>GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting</strong></a>
       <span>ACM MM, 2025</span>
       <p>Lei Yao, Yi Wang, Yi Zhang, <span class="paper-box-highlight">Moyun Liu</span>, Lap-Pui Chau</p>
-    </div>
-    <div class="compact-publication">
+  </div>
+  <div class="compact-publication">
       <a href="https://www.sciencedirect.com/science/article/pii/S0952197624009485"><strong>Multiple prior representation learning for self-supervised monocular depth estimation via hybrid transformer</strong></a>
       <span>Engineering Applications of Artificial Intelligence, 2024</span>
       <p>Guodong Sun, Junjie Liu, Mingxuan Liu, <span class="paper-box-highlight">Moyun Liu</span>, Yang Zhou</p>
-    </div>
-    <div class="compact-publication">
+  </div>
+  <div class="compact-publication">
       <a href="https://ieeexplore.ieee.org/document/10570157"><strong>Efficient Visual Fault Detection for Freight Train via Neural Architecture Search With Data Volume Robustness</strong></a>
       <span>IEEE Transactions on Industrial Informatics, 2024</span>
       <p>Yang Zhang, Mingying Li, Huilin Pan, <span class="paper-box-highlight">Moyun Liu</span>, Yang Zhang</p>
-    </div>
-    <div class="compact-publication">
+  </div>
+  <div class="compact-publication">
       <a href="https://arxiv.org/pdf/2407.11564"><strong>SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation</strong></a>
       <span>IEEE TCSVT, 2024</span>
       <p>Lei Yao, Yi Wang, <span class="paper-box-highlight">Moyun Liu</span>, Lap-Pui Chau</p>
-    </div>
-    <div class="compact-publication">
+  </div>
+  <div class="compact-publication">
       <a href="https://www.sciencedirect.com/science/article/pii/S0262885623002093"><strong>BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping</strong></a>
       <span>Image and Vision Computing, 2023</span>
       <p>Yijie Zhu, Jingming Xie, <span class="paper-box-highlight">Moyun Liu</span>, Lei Yao, Youping Chen</p>
-    </div>
-    <div class="compact-publication">
+  </div>
+  <div class="compact-publication">
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911418"><strong>Real-time vision-based system of fault detection for freight trains</strong></a>
       <span>IEEE Transactions on Instrumentation and Measurement, 2020</span>
       <p>Yang Zhang, <span class="paper-box-highlight">Moyun Liu</span>, Yunian Chen, Hongjie Zhang, Yanwen Guo</p>
-    </div>
   </div>
-</details>
+</div>
 
 # Academic Service
 
-## Editorial Service
+<p class="section-lede">Editorial and peer-review service across computer vision, robotics, and intelligent systems.</p>
 
-- **Guest Associate Editor**, Frontiers in Robotics and AI, Research Topic: [Vision-Language-Action Models and World Models for Robotic Manipulation](https://www.frontiersin.org/research-topics/85292/)
+<div class="service-grid">
+  <section class="service-card service-card--wide">
+    <h2>Editorial Service</h2>
+    <ul>
+      <li><strong>Guest Editor</strong>, Electronics (MDPI), Special Issue: <a href="https://www.mdpi.com/journal/electronics/special_issues/9DD0XQUKO7">Embodied AI: Vision–Language–Action Models, World Models and Beyond</a></li>
+      <li><strong>Guest Associate Editor</strong>, Frontiers in Robotics and AI, Research Topic: <a href="https://www.frontiersin.org/research-topics/85292/">Vision-Language-Action Models and World Models for Robotic Manipulation</a></li>
+    </ul>
+  </section>
 
-## Reviewer for Journals
+  <section class="service-card">
+    <h2>Reviewer for Journals</h2>
+    <ul>
+      <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI)</li>
+      <li>IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)</li>
+      <li>IEEE Transactions on Intelligent Vehicles (IEEE T-IV)</li>
+      <li>IEEE Transactions on Industrial Informatics (IEEE T-II)</li>
+      <li>IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)</li>
+      <li>IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)</li>
+      <li>IEEE Sensors Journal</li>
+      <li>International Journal of Computer Vision (IJCV)</li>
+      <li>Information Fusion</li>
+      <li>Pattern Recognition</li>
+      <li>Computers in Industry</li>
+      <li>Knowledge-Based Systems</li>
+      <li>Neurocomputing</li>
+      <li>Engineering Applications of Artificial Intelligence</li>
+      <li>Expert Systems With Applications</li>
+    </ul>
+  </section>
 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI)
-- IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)
-- IEEE Transactions on Intelligent Vehicles (IEEE T-IV)
-- IEEE Transactions on Industrial Informatics (IEEE T-II)
-- IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT)
-- IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
-- IEEE Sensors Journal
-- International Journal of Computer Vision (IJCV)
-- Information Fusion
-- Pattern Recognition
-- Computers in Industry
-- Knowledge-Based Systems
-- Neurocomputing
-- Engineering Applications of Artificial Intelligence
-- Expert Systems With Applications
-
-## Reviewer for Conferences
-
-- International Conference on Learning Representations (ICLR)
-- International Conference on Intelligent Robots and Systems (IROS)
-- ACM Multimedia (ACM MM)
+  <section class="service-card">
+    <h2>Reviewer for Conferences</h2>
+    <ul>
+      <li>International Conference on Learning Representations (ICLR)</li>
+      <li>IEEE International Conference on Robotics and Automation (ICRA)</li>
+      <li>International Conference on Intelligent Robots and Systems (IROS)</li>
+      <li>ACM Multimedia (ACM MM)</li>
+    </ul>
+  </section>
+</div>
 
 <div class="visitor-map">
   <script
