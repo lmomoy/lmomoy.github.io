@@ -69,8 +69,6 @@ My current research interests include embodied AI, humanoid robotics, multimodal
 
 # News
 
-<p class="section-lede">Recent publications, research milestones, and open calls, presented together in one scrollable timeline.</p>
-
 <div class="news-list scroll-panel scroll-panel--news">
   <ul>
     <li><code>2026.10</code> ✨ I joined the Editorial Board of <a href="https://www.elspub.com/journals/ebi/home"><strong>Embodied and Biomimetic Intelligence</strong></a> as a <strong>Young Editorial Board Member</strong>.</li>
@@ -112,8 +110,6 @@ My current research interests include embodied AI, humanoid robotics, multimodal
 </div>
 
 # Selected Publications
-
-<p class="section-lede">A selection of representative work across multimodal perception, 3D understanding, and efficient vision systems.</p>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/MAEnet.png' alt="MAENet preview" width="100%" loading="lazy" decoding="async"></div>
 <div class='paper-box-text' markdown="1">
@@ -277,8 +273,6 @@ We show how vision foundation models can be injected into a simple segmentation 
 
 # Other Publications
 
-<p class="section-lede">Additional publications are collected in one compact, scrollable list.</p>
-
 <div class="compact-publications scroll-panel scroll-panel--publications">
   <div class="compact-publication">
     <a href="https://arxiv.org/pdf/2603.12624v1"><strong>Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains</strong></a>
@@ -338,8 +332,6 @@ We show how vision foundation models can be injected into a simple segmentation 
 </div>
 
 # Academic Service
-
-<p class="section-lede">Editorial and peer-review service across computer vision, robotics, and intelligent systems.</p>
 
 <div class="service-grid">
   <section class="service-card service-card--wide">
