@@ -73,6 +73,7 @@ My current research interests include embodied AI, humanoid robotics, multimodal
 
 <div class="news-list scroll-panel scroll-panel--news">
   <ul>
+    <li><code>2026.10</code> I joined the Editorial Board of <a href="https://www.elspub.com/journals/ebi/home"><strong>Embodied and Biomimetic Intelligence</strong></a> as a <strong>Young Editorial Board Member</strong>.</li>
     <li class="news-list__featured">
       <code>2026.10</code>
       <div>
@@ -344,6 +345,7 @@ We show how vision foundation models can be injected into a simple segmentation 
   <section class="service-card service-card--wide">
     <h2>Editorial Service</h2>
     <ul>
+      <li><strong>Young Editorial Board Member</strong>, <a href="https://www.elspub.com/journals/ebi/home"><em>Embodied and Biomimetic Intelligence</em></a></li>
       <li><strong>Guest Editor</strong>, Electronics (MDPI), Special Issue: <a href="https://www.mdpi.com/journal/electronics/special_issues/9DD0XQUKO7">Embodied AI: Vision–Language–Action Models, World Models and Beyond</a></li>
       <li><strong>Guest Associate Editor</strong>, Frontiers in Robotics and AI, Research Topic: <a href="https://www.frontiersin.org/research-topics/85292/">Vision-Language-Action Models and World Models for Robotic Manipulation</a></li>
     </ul>
