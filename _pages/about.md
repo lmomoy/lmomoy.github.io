@@ -71,6 +71,7 @@ My current research interests include embodied AI, humanoid robotics, multimodal
 
 <div class="news-list scroll-panel scroll-panel--news">
   <ul>
+    <li><code>2026.11</code> 🎉 Our new preprint "More Than Picturing the Future: Motion-Oriented Latent Reasoning for Generalizable Robot Manipulation" is now available on <strong>arXiv</strong>. Many thanks to <a href="https://zhangxin-xd.github.io/">Dr. Xin Zhang</a>. <a href="https://arxiv.org/abs/2611.29339">Paper</a></li>
     <li><code>2026.10</code> ✨ I joined the Editorial Board of <a href="https://www.elspub.com/journals/ebi/home"><strong>Embodied and Biomimetic Intelligence</strong></a> as a <strong>Young Editorial Board Member</strong>.</li>
     <li class="news-list__featured">
       <code>2026.10</code>
@@ -110,6 +111,23 @@ My current research interests include embodied AI, humanoid robotics, multimodal
 </div>
 
 # Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/MotionLatent.png' alt="Motion-Oriented Latent Reasoning preview" width="100%" loading="lazy" decoding="async"></div>
+<div class='paper-box-text' markdown="1">
+
+[More Than Picturing the Future: Motion-Oriented Latent Reasoning for Generalizable Robot Manipulation](https://arxiv.org/abs/2611.29339)
+
+Xin Zhang, Yushuo Hou, Anqi Zhao, <span class="paper-box-highlight">Moyun Liu</span> <span class="paper-chip">Project Lead</span>, Xingwei Zhao, Bo Tao, Jiawei Du, Joey Tianyi Zhou
+
+**arXiv preprint, 2026**
+
+<p class="paper-links">
+  <a href="https://arxiv.org/abs/2611.29339">Paper</a>
+</p>
+
+We propose Motion-Oriented Latent Reasoning, which teaches vision-language-action models how a scene should evolve toward a goal for more generalizable robot manipulation.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/MAEnet.png' alt="MAENet preview" width="100%" loading="lazy" decoding="async"></div>
 <div class='paper-box-text' markdown="1">
@@ -275,6 +293,11 @@ We show how vision foundation models can be injected into a simple segmentation 
 
 <div class="compact-publications scroll-panel scroll-panel--publications">
   <div class="compact-publication">
+    <a href="https://arxiv.org/abs/2605.02735"><strong>Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs</strong></a>
+    <span>NeurIPS, 2026</span>
+    <p>Xin Zhang, Qiqi Tao, Jiawei Du, <span class="paper-box-highlight">Moyun Liu</span>, Joey Tianyi Zhou</p>
+  </div>
+  <div class="compact-publication">
     <a href="https://arxiv.org/pdf/2603.12624v1"><strong>Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains</strong></a>
     <span>IEEE TITS, 2026</span>
     <p>Guodong Sun, Qihang Liang, Xingyu Pan, <span class="paper-box-highlight">Moyun Liu</span>, and Yang Zhang</p>
@@ -311,7 +334,7 @@ We show how vision foundation models can be injected into a simple segmentation 
   </div>
   <div class="compact-publication">
       <a href="https://ieeexplore.ieee.org/document/10570157"><strong>Efficient Visual Fault Detection for Freight Train via Neural Architecture Search With Data Volume Robustness</strong></a>
-      <span>IEEE Transactions on Industrial Informatics, 2024</span>
+      <span>IEEE TII, 2024</span>
       <p>Yang Zhang, Mingying Li, Huilin Pan, <span class="paper-box-highlight">Moyun Liu</span>, Yang Zhang</p>
   </div>
   <div class="compact-publication">
@@ -326,7 +349,7 @@ We show how vision foundation models can be injected into a simple segmentation 
   </div>
   <div class="compact-publication">
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911418"><strong>Real-time vision-based system of fault detection for freight trains</strong></a>
-      <span>IEEE Transactions on Instrumentation and Measurement, 2020</span>
+      <span>IEEE TIM, 2020</span>
       <p>Yang Zhang, <span class="paper-box-highlight">Moyun Liu</span>, Yunian Chen, Hongjie Zhang, Yanwen Guo</p>
   </div>
 </div>
