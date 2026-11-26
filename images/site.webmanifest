@@ -3,9 +3,9 @@
     "short_name": "Moyun Liu",
     "icons": [
        {
-          "src": "/images/favicon.ico",
-          "sizes": "64x64",
-          "type": "image/x-icon"
+          "src": "/images/favicon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
         }
     ],
     "theme_color": "#FFFFFF",
