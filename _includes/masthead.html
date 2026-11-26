@@ -14,14 +14,13 @@
           {% for link in navigation %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self">{{ link.title }}</a></li>
           {% endfor %}
-          {% if page.lang == "zh-CN" %}
-            <li class="masthead__menu-item"><a href="/" lang="en" hreflang="en" target="_self">English</a></li>
-          {% else %}
-            <li class="masthead__menu-item"><a href="/zh/" lang="zh-CN" hreflang="zh-CN" target="_self">中文</a></li>
-          {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <div class="language-switch" role="group" aria-label="Language switcher">
+        <a href="/" lang="en" hreflang="en" target="_self"{% unless page.lang == "zh-CN" %} class="is-active" aria-current="page"{% endunless %}>EN</a>
+        <a href="/zh/" lang="zh-CN" hreflang="zh-CN" target="_self"{% if page.lang == "zh-CN" %} class="is-active" aria-current="page"{% endif %}>中文</a>
+      </div>
     </div>
   </div>
 </div>
