@@ -601,6 +601,44 @@ html {
     }
 }
 
+.project-list {
+    margin: 1.1rem 0 2.2rem;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--border-soft);
+
+    li {
+        display: grid;
+        grid-template-columns: 5.2rem minmax(0, 1fr);
+        align-items: start;
+        gap: 1rem;
+        padding: 1rem 0.2rem;
+        border-bottom: 1px solid var(--border-soft);
+        color: var(--ink);
+        font-size: 0.96rem;
+        line-height: 1.7;
+    }
+}
+
+.project-list__role {
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 0.12rem;
+    padding: 0.2rem 0.65rem;
+    border-radius: 999px;
+    background: var(--accent-dark);
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1.45;
+    white-space: nowrap;
+}
+
+.project-list__role--participant {
+    background: var(--accent-soft);
+    color: var(--accent-dark);
+}
+
 .service-card {
     padding: 1.2rem 1.25rem;
     background: rgba(255, 255, 255, 0.86);
@@ -725,6 +763,13 @@ $scroll_offset : 2em;
         max-height: 30rem;
         padding: 0.25rem 0.4rem 0.25rem 0.25rem;
         border-radius: 16px;
+    }
+
+    .project-list li {
+        grid-template-columns: 4.7rem minmax(0, 1fr);
+        gap: 0.65rem;
+        padding: 0.85rem 0;
+        font-size: 0.9rem;
     }
 }
 

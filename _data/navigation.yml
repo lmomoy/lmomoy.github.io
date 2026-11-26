@@ -24,3 +24,25 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
+main_zh:
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "研究方向"
+    url: "/zh/#研究方向"
+
+  - title: "主持或参研项目"
+    url: "/zh/#主持或参研项目"
+
+  - title: "最新动态"
+    url: "/zh/#最新动态"
+
+  - title: "代表性论文"
+    url: "/zh/#代表性论文"
+
+  - title: "工作经历"
+    url: "/zh/#工作经历"
+
+  - title: "学术服务"
+    url: "/zh/#学术服务"
+

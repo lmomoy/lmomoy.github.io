@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+lang: en
 redirect_from:
   - /about/
   - /about.html
@@ -94,19 +95,19 @@ My current research interests include embodied AI, humanoid robotics, multimodal
       </div>
     </li>
     <li><code>2026.09</code> 🎉 Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" was accepted by <strong>NeurIPS 2026</strong>. Many thanks to <a href="https://zhangxin-xd.github.io/">Dr. Xin Zhang</a>. <a href="https://arxiv.org/pdf/2605.02735">Paper</a></li>
-    <li><code>2026.03</code> 🎉 Our work "Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains" was accepted by <strong>IEEE TITS</strong>. <a href="https://arxiv.org/pdf/2603.12624v1">Paper</a> <a href="https://github.com/MVME-HBUT/SAM_FTI-FDet">Code</a></li>
-    <li><code>2026.02</code> 🎉 Our work "HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding" was accepted by <strong>CVPR 2026</strong>. <a href="https://rayyoh.github.io/Hammer/">Project</a> <a href="https://github.com/RayYoh/Hammer">Code</a></li>
-    <li><code>2026.02</code> 🎉 Our work "LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation" was accepted by <strong>IEEE TCSVT</strong>. <a href="https://arxiv.org/pdf/2602.11007">Paper</a> <a href="https://github.com/RayYoh/LaSSM">Code</a></li>
-    <li><code>2025.09</code> 🎉 Our work "T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation" was accepted by <strong>IEEE TMM</strong>. <a href="https://arxiv.org/pdf/2404.01065">Paper</a> <a href="https://github.com/isbrycee/T-Mamba">Code</a></li>
-    <li><code>2025.08</code> 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering" was accepted by <strong>IEEE TPAMI</strong>. <a href="https://ieeexplore.ieee.org/document/11119324">Paper</a> <a href="https://github.com/liliangnudt/GProM">Code</a></li>
-    <li><code>2025.07</code> 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" was accepted by <strong>ACM MM 2025</strong>. <a href="https://arxiv.org/abs/2508.02172">Paper</a> <a href="https://github.com/RayYoh/GaussianCross">Code</a></li>
+    <li><code>2026.03</code> 🎉 Our work "Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains" was accepted by <strong>IEEE TITS</strong>. Many thanks to <a href="https://yangzhangcst.github.io/Homepage/">Assoc. Prof. Yang Zhang</a>. <a href="https://arxiv.org/pdf/2603.12624v1">Paper</a> <a href="https://github.com/MVME-HBUT/SAM_FTI-FDet">Code</a></li>
+    <li><code>2026.02</code> 🎉 Our work "HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding" was accepted by <strong>CVPR 2026</strong>. Many thanks to <a href="https://rayyoh.github.io/">Mr. Lei Yao</a>. <a href="https://rayyoh.github.io/Hammer/">Project</a> <a href="https://github.com/RayYoh/Hammer">Code</a></li>
+    <li><code>2026.02</code> 🎉 Our work "LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation" was accepted by <strong>IEEE TCSVT</strong>. Many thanks to <a href="https://rayyoh.github.io/">Mr. Lei Yao</a>. <a href="https://arxiv.org/pdf/2602.11007">Paper</a> <a href="https://github.com/RayYoh/LaSSM">Code</a></li>
+    <li><code>2025.09</code> 🎉 Our work "T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation" was accepted by <strong>IEEE TMM</strong>. Many thanks to <a href="https://isjinghao.github.io/">Mr. Jing Hao</a>. <a href="https://arxiv.org/pdf/2404.01065">Paper</a> <a href="https://github.com/isbrycee/T-Mamba">Code</a></li>
+    <li><code>2025.08</code> 🎉 Our work "Generalized Probabilistic Graphical Modeling for Multi-view Bipartite Graph Clustering" was accepted by <strong>IEEE TPAMI</strong>. Many thanks to <a href="https://liliangnudt.github.io/">Dr. Liang Li</a>. <a href="https://ieeexplore.ieee.org/document/11119324">Paper</a> <a href="https://github.com/liliangnudt/GProM">Code</a></li>
+    <li><code>2025.07</code> 🎉 Our work "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting" was accepted by <strong>ACM MM 2025</strong>. Many thanks to <a href="https://rayyoh.github.io/">Mr. Lei Yao</a>. <a href="https://arxiv.org/abs/2508.02172">Paper</a> <a href="https://github.com/RayYoh/GaussianCross">Code</a></li>
     <li><code>2025.06</code> 🧑‍🔬 I joined the <a href="https://dmet.hust.edu.cn/index.htm">State Key Laboratory of Intelligent Manufacturing Equipment and Technology</a>, HUST, as a Postdoctoral Researcher.</li>
     <li><code>2025.06</code> 🎓 I completed my Ph.D. at HUST.</li>
     <li><code>2025.05</code> 🏆 Our works <a href="https://github.com/RayYoh/LaSSM">LaSSM</a> and <a href="https://rayyoh.github.io/SGIFormer/">SGIFormer</a> won first and second places on the <a href="https://kaldir.vc.in.tum.de/scannetpp/benchmark/insseg">CVPR 2025 ScanNet++ Challenge</a>.</li>
     <li><code>2025.04</code> 🎉 Our work "MAENet: Boost Image-Guided Point Cloud Completion More Accurate and Even" was accepted by <strong>Information Fusion</strong>. <a href="https://www.sciencedirect.com/science/article/pii/S1566253525002520">Paper</a> <a href="https://github.com/lmomoy/MAENet">Code</a></li>
     <li><code>2025.03</code> 🏆 "LF-YOLO" was recognized as an <strong>ESI Highly Cited Paper</strong>. <a href="https://ieeexplore.ieee.org/abstract/document/10054502">Paper</a> <a href="https://github.com/lmomoy/LF-YOLO">Code</a></li>
     <li><code>2024.11</code> 🏅 I received the National Scholarship for Ph.D. Students.</li>
-    <li><code>2024.11</code> 🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" was accepted by <strong>IEEE TCSVT</strong>. <a href="https://arxiv.org/pdf/2407.11564">Paper</a> <a href="https://github.com/RayYoh/SGIFormer">Code</a></li>
+    <li><code>2024.11</code> 🎉 Our work "SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation" was accepted by <strong>IEEE TCSVT</strong>. Many thanks to <a href="https://rayyoh.github.io/">Mr. Lei Yao</a>. <a href="https://arxiv.org/pdf/2407.11564">Paper</a> <a href="https://github.com/RayYoh/SGIFormer">Code</a></li>
   </ul>
 </div>
 
@@ -362,7 +363,7 @@ We show how vision foundation models can be injected into a simple segmentation 
     <ul>
       <li><strong>Young Editorial Board Member</strong>, <a href="https://www.elspub.com/journals/ebi/home"><em>Embodied and Biomimetic Intelligence</em></a></li>
       <li><strong>Guest Editor</strong>, Electronics (MDPI), Special Issue: <a href="https://www.mdpi.com/journal/electronics/special_issues/9DD0XQUKO7">Embodied AI: Vision–Language–Action Models, World Models and Beyond</a></li>
-      <li><strong>Guest Associate Editor</strong>, Frontiers in Robotics and AI, Research Topic: <a href="https://www.frontiersin.org/research-topics/85292/">Vision-Language-Action Models and World Models for Robotic Manipulation</a></li>
+      <li><strong>Guest Editor</strong>, Frontiers in Robotics and AI, Research Topic: <a href="https://www.frontiersin.org/research-topics/85292/">Vision-Language-Action Models and World Models for Robotic Manipulation</a></li>
     </ul>
   </section>
 

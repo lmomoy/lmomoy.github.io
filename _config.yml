@@ -9,6 +9,7 @@
 title                    : "Moyun Liu (刘默耘)"
 description              : "Postdoctoral Researcher in embodied AI, humanoid robotics, and multimodal perception."
 repository               : "lmomoy/lmomoy.github.io"
+url                      : "https://lmomoy.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Moyun Liu (刘默耘)"
-  avatar           : "images/LMY-HUST.jpg"
+  avatar           : "/images/LMY-HUST.jpg"
   bio              : "Postdoctoral Researcher at Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         : "Huazhong University of Science and Technology"
